@@ -60,3 +60,42 @@ Qual você faz primeiro? Comenta aí 👇
 Vídeo: Rockstar Games (GTA VI: An Extended Look)
 
 #GTA6 #GTAVI #GTA6Brasil #Gameplay #ViceCity #Leonida #Reels #GamesBR
+
+## Reel 6 — GTA 6 no PC em 2027? (reel6_pc.mp4)
+GTA 6 no PC pode chegar BEM mais cedo do que todo mundo esperava 👀💻
+
+📰 Segundo o GamesBeat, quatro fontes da indústria apontam o 1º trimestre de 2027
+⚠️ A Rockstar NÃO confirmou: por enquanto, oficial só PS5 e Xbox Series
+⏳ No GTA V, o PC chegou 19 meses depois do console
+🎮 No console, o lançamento é em 19 de novembro
+
+E você, espera o PC ou joga no console no dia 19? 👇
+
+Fonte: GamesBeat | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #GTA6PC #PCGamer #PS5 #XboxSeriesX #GamesBR
+
+## Reel 7 — Vice City invadiu Miami (reel7_miami.mp4)
+A Rockstar levou Vice City pras ruas de Miami DE VERDADE 🌴🚓
+
+🚗 Carros reais personalizados como veículos de GTA 6
+🏁 Um Coquette (o "Corvette" do GTA) com visual de Vice City
+🚨 Um Lamborghini com a pintura da Vice Beach Police
+🎈 Dirigível temático e até estádio decorado
+
+Imagina isso no Brasil? Qual carro de GTA você queria ver na sua cidade? 👇
+
+Imagens ilustrativas: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Miami #Leonida #Carros #GamesBR
+
+## Contagem 31 — Faltam 31 dias (cd31.mp4)
+FALTAM 31 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: Lucia Caminos é a primeira protagonista mulher da era moderna de GTA 💥
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #LuciaCaminos #ViceCity #Contagem #GamesBR

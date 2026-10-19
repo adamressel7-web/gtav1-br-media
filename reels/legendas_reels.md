@@ -110,3 +110,20 @@ Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! �
 Vídeo: Rockstar Games | Fonte: Game Informer
 
 #GTA6 #GTAVI #GTA6Brasil #Leonida #MapaGTA6 #ViceCity #Contagem #GamesBR
+
+## Reel 8 — Falta 1 mês (reel8_falta1mes.mp4)
+FALTA 1 MÊS PRA GTA 6! 🥹🎮
+
+Antes de chegar em Leonida, bora relembrar a história:
+🏙️ GTA III (2001): Liberty City e o começo do mundo aberto em 3D
+🌴 Vice City (2002): Tommy Vercetti e os anos 80
+🟢 San Andreas (2004): CJ de volta à Grove Street
+🌉 GTA IV (2008): Niko Bellic em Liberty City
+☀️ GTA V (2013): Michael, Franklin e Trevor em Los Santos
+🔥 GTA VI (19/11/2026): Jason e Lucia em Leonida
+
+E aí, QUAL GTA MAIS MARCOU SUA VIDA? 👇
+
+Arte de fundo: GTA 6 Brasil | GTA VI: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #GTAViceCity #GTA5 #Nostalgia #GamesBR

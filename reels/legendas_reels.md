@@ -99,3 +99,14 @@ Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! �
 Imagens: Rockstar Games
 
 #GTA6 #GTAVI #GTA6Brasil #LuciaCaminos #ViceCity #Contagem #GamesBR
+
+## Contagem 30 — Faltam 30 dias (cd30.mp4)
+FALTAM 30 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: segundo a Rockstar, Leonida é o MAIOR mapa que eles já fizeram, cerca de 2x o tamanho do mapa de GTA V 🗺️
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Vídeo: Rockstar Games | Fonte: Game Informer
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #MapaGTA6 #ViceCity #Contagem #GamesBR

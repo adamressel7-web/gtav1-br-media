@@ -127,3 +127,14 @@ E aí, QUAL GTA MAIS MARCOU SUA VIDA? 👇
 Arte de fundo: GTA 6 Brasil | GTA VI: Rockstar Games
 
 #GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #GTAViceCity #GTA5 #Nostalgia #GamesBR
+
+## Contagem 29 — Faltam 29 dias (cd29.mp4)
+FALTAM 29 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: segundo a Rockstar, o clima de GTA 6 é LOCAL. Pode estar chovendo forte num bairro e fazendo sol no outro, ao mesmo tempo 🌦️
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Vídeo: Rockstar Games | Fonte: Game Informer
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #Clima #Contagem #GamesBR

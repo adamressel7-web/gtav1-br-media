@@ -138,3 +138,61 @@ Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! �
 Vídeo: Rockstar Games | Fonte: Game Informer
 
 #GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #Clima #Contagem #GamesBR
+
+## Reel 9 — Armas de GTA 6 (reel9_armas.mp4)
+As armas de GTA 6 que a Rockstar JÁ CONFIRMOU 🔫🔥
+
+🔹 Girardi ES9: a pistola do Jason
+🔹 Klose K17: a pistola da Lucia
+🔹 Hawk & Little Morgan: revólveres "dele e dela" da Edição Ultimate
+🔹 Moreland 850: espingarda que apareceu com nome no gameplay oficial
+➕ Nos trailers: lança-granadas, carabinas, taco de beisebol e até taco de sinuca
+
+Qual você usa primeiro? 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ArmasGTA6 #ViceCity #Leonida #Reels #GamesBR
+
+## Reel 10 — Carros de GTA 6 na vida real (reel10_carros_reais.mp4)
+Os carros de GTA 6 e os carros REAIS que eles lembram 🚗🔥
+
+🏎️ Grotti Cheetah '95 ➡️ Ferrari Testarossa
+🐎 Vapid Dominator ➡️ Ford Mustang (aqui virou buggy de lama!)
+🏁 Coquette ➡️ Chevrolet Corvette
+🚕 Vapid Stanier '55 ➡️ Ford dos anos 50
+🚤 Shitzu Squalo ➡️ as lanchas de Miami dos anos 80
+
+Qual vai pra sua garagem? 👇
+
+Imagens: Rockstar Games | Comparações de fãs, o jogo não usa marcas reais
+
+#GTA6 #GTAVI #GTA6Brasil #Carros #CarrosGTA6 #ViceCity #Reels #GamesBR
+
+## Reel 11 — Gráficos: teve downgrade? (reel11_graficos.mp4)
+GTA 6 teve DOWNGRADE nos gráficos? 👀 A Digital Foundry analisou o trailer de lançamento:
+
+✅ Sem queda de resolução: 1440p reconstruído para 4K no PS5
+🎮 30 FPS, com movimento mais suave que nos trailers antigos
+🌦️ Clima refeito pela Rockstar, diferente em cada região do mapa
+⚠️ A única crítica foi o HDR, com cores distorcidas em algumas cenas
+
+E pra você, tá bonito ou caiu a qualidade? 👇
+
+Vídeo: Rockstar Games | Análise: Digital Foundry
+
+#GTA6 #GTAVI #GTA6Brasil #Graficos #DigitalFoundry #PS5 #Reels #GamesBR
+
+## Reel 12 — Jogar GTA 6 é traição? (reel12_traicao.mp4)
+Jogar GTA 6 é TRAIÇÃO? 😳💔 O debate que tá bombando lá fora:
+
+📱 No TikTok, uma criadora disse pra não deixar o namorado jogar, porque no jogo você mantém um relacionamento
+💬 Segundo ela, tem mensagem, encontro, e a personagem reage mal se você some
+✅ Mas essa parte é opcional: se ignorar, Jason e Lucia ficam menos apegados, mas continuam leais
+🎮 E tem gente lembrando que o The Sims faz isso há 25 anos
+
+E aí, é traição ou não? Marca quem vai sumir no dia 19! 👇
+
+Imagens: Rockstar Games | Fontes: IGN, Gulf News
+
+#GTA6 #GTAVI #GTA6Brasil #JasonELucia #Traicao #Polemica #Reels #GamesBR

@@ -196,3 +196,26 @@ E aí, é traição ou não? Marca quem vai sumir no dia 19! 👇
 Imagens: Rockstar Games | Fontes: IGN, Gulf News
 
 #GTA6 #GTAVI #GTA6Brasil #JasonELucia #Traicao #Polemica #Reels #GamesBR
+
+## Contagem 28 — Faltam 28 dias (cd28.mp4)
+FALTAM 28 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: GTA 6 pode concorrer a JOGO DO ANO no The Game Awards 2026 🏆 Ele sai em 19/11, um dia antes do prazo final de inscrição (20/11).
+
+Vai levar o GOTY? Comenta! E segue pra não perder o de amanhã 👇
+
+Vídeo: Rockstar Games | Fonte: The Game Awards (regras de elegibilidade)
+
+#GTA6 #GTAVI #GTA6Brasil #TheGameAwards #GOTY #ViceCity #Contagem #GamesBR
+
+
+## Contagem 26 — Faltam 26 dias (cd26.mp4)
+FALTAM 26 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: GTA 6 pode concorrer a JOGO DO ANO no The Game Awards 2026 🏆 Ele sai em 19/11, um dia antes do prazo final de inscrição (20/11).
+
+Vai levar o GOTY? Comenta! E segue pra não perder o de amanhã 👇
+
+Vídeo: Rockstar Games | Fonte: The Game Awards (regras de elegibilidade)
+
+#GTA6 #GTAVI #GTA6Brasil #TheGameAwards #GOTY #ViceCity #Contagem #GamesBR

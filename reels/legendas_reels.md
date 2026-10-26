@@ -219,3 +219,49 @@ Vai levar o GOTY? Comenta! E segue pra não perder o de amanhã 👇
 Vídeo: Rockstar Games | Fonte: The Game Awards (regras de elegibilidade)
 
 #GTA6 #GTAVI #GTA6Brasil #TheGameAwards #GOTY #ViceCity #Contagem #GamesBR
+
+## Curto 1 — POV dia 19/11 (curto1_pov.mp4)
+POV: é dia 19/11 e você finalmente abre GTA 6 🪂🌴
+
+Quem mais tá contando os dias? 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #POV #Gameplay #GamesBR
+
+## Curto 2 — O que você faz primeiro? (curto2_top5.mp4)
+O que você faz PRIMEIRO em GTA 6? 👀
+
+1️⃣ Paraquedas
+2️⃣ Aerobarco
+3️⃣ Mergulho
+4️⃣ Basquete
+5️⃣ Academia
+
+Comenta o número! 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #GamesBR
+
+## Curto 3 — Olha o nível de GTA 6 (curto3_real.mp4)
+Olha o nível de GTA 6 🤯 Direto do vídeo oficial da Rockstar.
+
+Nota de 0 a 10 pros gráficos? 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #Graficos #ViceCity #Gameplay #GamesBR
+
+## Curto 4 — Cheats do San Andreas (curto4_cheats.mp4)
+Quem nunca decorou esses códigos no PS2? 🎮🥹
+
+Os cheats mais famosos de GTA San Andreas: vida e $250 mil, armas, tanque Rhino, jetpack, carros voadores e super pulo. Tem a sequência do PS2 e o código do PC (HESOYAM 😂).
+
+SALVA o post pra testar depois!
+
+Será que os cheats voltam em GTA 6? A Rockstar ainda não confirmou. Qual você usaria primeiro? 👇
+
+Códigos: GTA San Andreas (PS2/PC) | Fontes: GTABase, GamesRadar
+
+#GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #Cheats #HESOYAM #Nostalgia #PS2 #GamesBR

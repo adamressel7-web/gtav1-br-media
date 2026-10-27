@@ -265,3 +265,20 @@ Será que os cheats voltam em GTA 6? A Rockstar ainda não confirmou. Qual você
 Códigos: GTA San Andreas (PS2/PC) | Fontes: GTABase, GamesRadar
 
 #GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #Cheats #HESOYAM #Nostalgia #PS2 #GamesBR
+
+## Curto 5 — Todos os mapas de GTA (curto5_mapas.mp4)
+Todos os mapas de GTA, do primeiro até GTA 6 🗺️🔥
+
+🏙️ GTA 1 (1997): Liberty City
+🌉 GTA III (2001): Liberty City
+🌴 Vice City (2002)
+🌵 San Andreas (2004): 3 cidades num estado
+🗽 GTA IV (2008): Liberty City
+☀️ GTA V (2013): Los Santos e Blaine County
+🐊 GTA VI (2026): Leonida, o maior mapa da Rockstar, cerca de 2x o de GTA V
+
+Qual mapa é o seu favorito? 👇
+
+Mapas: Rockstar Games (via GTA Wiki) | Leonida: mapa ilustrativo, o oficial ainda não foi revelado
+
+#GTA6 #GTAVI #GTA6Brasil #MapaGTA #GTASanAndreas #GTAViceCity #GTA5 #Nostalgia #GamesBR

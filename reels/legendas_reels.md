@@ -286,13 +286,14 @@ Mapas: Rockstar Games (via GTA Wiki) | Leonida: mapa ilustrativo, o oficial aind
 ## Curto 6 — GTA 5 x GTA 6: a mesma cena (curto6_vs.mp4)
 GTA 5 (2013) x GTA 6 (2026): a MESMA cena 🤯
 
-🪂 Salto
-🪂 Paraquedas
-🤿 Mergulho
 🏙️ A cidade
+🪂 Paraquedas
+🚤 Na água
+🤿 Mergulho
+🏋️ Treino (da ioga do Michael à academia da Lucia 😂)
 
 13 anos de diferença. Qual evolução te impressionou mais? 👇
 
-Imagens oficiais: Rockstar Games
+Vídeos oficiais: Rockstar Games
 
 #GTA6 #GTAVI #GTA5 #GTAV #GTA6Brasil #Comparacao #ViceCity #LosSantos #GamesBR

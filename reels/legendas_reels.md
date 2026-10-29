@@ -297,3 +297,14 @@ GTA 5 (2013) x GTA 6 (2026): a MESMA cena 🤯
 Vídeos oficiais: Rockstar Games
 
 #GTA6 #GTAVI #GTA5 #GTAV #GTA6Brasil #Comparacao #ViceCity #LosSantos #GamesBR
+
+## News 1 — South Park (news1_southpark.mp4)
+🚨 Saiu gameplay NOVA de GTA 6... dentro de um episódio de SOUTH PARK 😂
+
+No episódio "Guinea Pig on a Stick", exibido ontem nos EUA, aparece um trecho de GTA 6: o Jason vê um cara deixando o cachorro fazer cocô na praia, arruma briga e taca o saquinho de cocô na cabeça dele 💩
+
+Essa é a mecânica mais importante de GTA 6? 😂👇
+
+Fonte: South Park via VGC | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #SouthPark #ViceCity #Noticia #GamesBR

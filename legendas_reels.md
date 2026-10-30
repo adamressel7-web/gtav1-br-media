@@ -1,0 +1,497 @@
+# Legendas dos Reels
+
+## Reel 3 — Carros de GTA 6 (reel3_carros.mp4)
+Os carros de GTA 6 que a Rockstar já mostrou oficialmente 🚗🔥
+
+🏎️ ’95 Grotti Cheetah
+🛻 ’67 Vapid Dominator Buggy
+🚙 A Vapid Ganado do Jason (visual retrô)
+🚕 ’55 Vapid Stanier (bônus de pré-venda)
+🔧 Clássicos do Wyman, rodas donk na Rideout Customs e a lancha Shitzu Squalo
+
+Vários são da Edição Ultimate. Qual você pilota primeiro? 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #Carros #ViceCity #Leonida #Reels #GamesBR
+
+## Reel 4 — O mapa de GTA 6 (reel4_mapa.mp4)
+O mapa de GTA 6: as 6 regiões de Leonida e os lugares reais que inspiraram cada uma 🗺️
+
+🌴 Vice City: Miami
+🌉 Leonida Keys: Florida Keys
+🐊 Grassrivers: Everglades
+⚓ Port Gellhorn: Panama City Beach
+🏍️ Ambrosia: interior da Flórida
+🌲 Mount Kalaga: norte da Flórida
+
+Qual região você explora primeiro? 👇
+
+Nomes das regiões: Rockstar Games | Mapa ilustrativo
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #MapaGTA6 #Reels #GamesBR
+
+## Reel 5 — Trailer final (reel5_trailer.mp4)
+Saiu o TRAILER FINAL de GTA 6! 🔥 Os detalhes que você pode ter perdido:
+
+🔒 Lucia atrás das grades e com tornozeleira eletrônica
+🎖️ Jason diz que se meteu em encrenca no Exército
+⚓ Jason trabalha numa marina, e uma placa aponta para The Keys
+🌙 Missão no pântano com visão noturna, e o cachorro do Jason de óculos
+🎵 Trilha da Justice: "Flower in a Hurricane", com Tame Impala, SZA e King Gizzard
+
+O trailer completo está no canal oficial da Rockstar no YouTube. Faltam 33 dias! O que você achou? 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #TrailerGTA6 #ViceCity #Leonida #Reels #GamesBR
+
+## Corte 1 — O que dá pra fazer em GTA 6 (corte1_atividades.mp4)
+O que dá pra fazer em GTA 6? 👀 Direto do gameplay oficial:
+
+🪂 Saltar de paraquedas sobre Vice City
+🐊 Pilotar aerobarco no pântano
+🤿 Mergulhar no fundo do mar
+🏀 Jogar basquete
+🏋️ Puxar ferro na academia
+
+Qual você faz primeiro? Comenta aí 👇
+
+Vídeo: Rockstar Games (GTA VI: An Extended Look)
+
+#GTA6 #GTAVI #GTA6Brasil #Gameplay #ViceCity #Leonida #Reels #GamesBR
+
+## Reel 6 — GTA 6 no PC em 2027? (reel6_pc.mp4)
+GTA 6 no PC pode chegar BEM mais cedo do que todo mundo esperava 👀💻
+
+📰 Segundo o GamesBeat, quatro fontes da indústria apontam o 1º trimestre de 2027
+⚠️ A Rockstar NÃO confirmou: por enquanto, oficial só PS5 e Xbox Series
+⏳ No GTA V, o PC chegou 19 meses depois do console
+🎮 No console, o lançamento é em 19 de novembro
+
+E você, espera o PC ou joga no console no dia 19? 👇
+
+Fonte: GamesBeat | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #GTA6PC #PCGamer #PS5 #XboxSeriesX #GamesBR
+
+## Reel 7 — Vice City invadiu Miami (reel7_miami.mp4)
+A Rockstar levou Vice City pras ruas de Miami DE VERDADE 🌴🚓
+
+🚗 Carros reais personalizados como veículos de GTA 6
+🏁 Um Coquette (o "Corvette" do GTA) com visual de Vice City
+🚨 Um Lamborghini com a pintura da Vice Beach Police
+🎈 Dirigível temático e até estádio decorado
+
+Imagina isso no Brasil? Qual carro de GTA você queria ver na sua cidade? 👇
+
+Imagens ilustrativas: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Miami #Leonida #Carros #GamesBR
+
+## Contagem 31 — Faltam 31 dias (cd31.mp4)
+FALTAM 31 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: Lucia Caminos é a primeira protagonista mulher da era moderna de GTA 💥
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #LuciaCaminos #ViceCity #Contagem #GamesBR
+
+## Contagem 30 — Faltam 30 dias (cd30.mp4)
+FALTAM 30 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: segundo a Rockstar, Leonida é o MAIOR mapa que eles já fizeram, cerca de 2x o tamanho do mapa de GTA V 🗺️
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Vídeo: Rockstar Games | Fonte: Game Informer
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #MapaGTA6 #ViceCity #Contagem #GamesBR
+
+## Reel 8 — Falta 1 mês (reel8_falta1mes.mp4)
+FALTA 1 MÊS PRA GTA 6! 🥹🎮
+
+Antes de chegar em Leonida, bora relembrar a história:
+🏙️ GTA III (2001): Liberty City e o começo do mundo aberto em 3D
+🌴 Vice City (2002): Tommy Vercetti e os anos 80
+🟢 San Andreas (2004): CJ de volta à Grove Street
+🌉 GTA IV (2008): Niko Bellic em Liberty City
+☀️ GTA V (2013): Michael, Franklin e Trevor em Los Santos
+🔥 GTA VI (19/11/2026): Jason e Lucia em Leonida
+
+E aí, QUAL GTA MAIS MARCOU SUA VIDA? 👇
+
+Arte de fundo: GTA 6 Brasil | GTA VI: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #GTAViceCity #GTA5 #Nostalgia #GamesBR
+
+## Contagem 29 — Faltam 29 dias (cd29.mp4)
+FALTAM 29 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: segundo a Rockstar, o clima de GTA 6 é LOCAL. Pode estar chovendo forte num bairro e fazendo sol no outro, ao mesmo tempo 🌦️
+
+Todo dia um fato novo até o lançamento. Segue pra não perder o de amanhã! 👇
+
+Vídeo: Rockstar Games | Fonte: Game Informer
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #Clima #Contagem #GamesBR
+
+## Reel 9 — Armas de GTA 6 (reel9_armas.mp4)
+As armas de GTA 6 que a Rockstar JÁ CONFIRMOU 🔫🔥
+
+🔹 Girardi ES9: a pistola do Jason
+🔹 Klose K17: a pistola da Lucia
+🔹 Hawk & Little Morgan: revólveres "dele e dela" da Edição Ultimate
+🔹 Moreland 850: espingarda que apareceu com nome no gameplay oficial
+➕ Nos trailers: lança-granadas, carabinas, taco de beisebol e até taco de sinuca
+
+Qual você usa primeiro? 👇
+
+Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ArmasGTA6 #ViceCity #Leonida #Reels #GamesBR
+
+## Reel 10 — Carros de GTA 6 na vida real (reel10_carros_reais.mp4)
+Os carros de GTA 6 e os carros REAIS que eles lembram 🚗🔥
+
+🏎️ Grotti Cheetah '95 ➡️ Ferrari Testarossa
+🐎 Vapid Dominator ➡️ Ford Mustang (aqui virou buggy de lama!)
+🏁 Coquette ➡️ Chevrolet Corvette
+🚕 Vapid Stanier '55 ➡️ Ford dos anos 50
+🚤 Shitzu Squalo ➡️ as lanchas de Miami dos anos 80
+
+Qual vai pra sua garagem? 👇
+
+Imagens: Rockstar Games | Comparações de fãs, o jogo não usa marcas reais
+
+#GTA6 #GTAVI #GTA6Brasil #Carros #CarrosGTA6 #ViceCity #Reels #GamesBR
+
+## Reel 11 — Gráficos: teve downgrade? (reel11_graficos.mp4)
+GTA 6 teve DOWNGRADE nos gráficos? 👀 A Digital Foundry analisou o trailer de lançamento:
+
+✅ Sem queda de resolução: 1440p reconstruído para 4K no PS5
+🎮 30 FPS, com movimento mais suave que nos trailers antigos
+🌦️ Clima refeito pela Rockstar, diferente em cada região do mapa
+⚠️ A única crítica foi o HDR, com cores distorcidas em algumas cenas
+
+E pra você, tá bonito ou caiu a qualidade? 👇
+
+Vídeo: Rockstar Games | Análise: Digital Foundry
+
+#GTA6 #GTAVI #GTA6Brasil #Graficos #DigitalFoundry #PS5 #Reels #GamesBR
+
+## Reel 12 — Jogar GTA 6 é traição? (reel12_traicao.mp4)
+Jogar GTA 6 é TRAIÇÃO? 😳💔 O debate que tá bombando lá fora:
+
+📱 No TikTok, uma criadora disse pra não deixar o namorado jogar, porque no jogo você mantém um relacionamento
+💬 Segundo ela, tem mensagem, encontro, e a personagem reage mal se você some
+✅ Mas essa parte é opcional: se ignorar, Jason e Lucia ficam menos apegados, mas continuam leais
+🎮 E tem gente lembrando que o The Sims faz isso há 25 anos
+
+E aí, é traição ou não? Marca quem vai sumir no dia 19! 👇
+
+Imagens: Rockstar Games | Fontes: IGN, Gulf News
+
+#GTA6 #GTAVI #GTA6Brasil #JasonELucia #Traicao #Polemica #Reels #GamesBR
+
+## Contagem 28 — Faltam 28 dias (cd28.mp4)
+FALTAM 28 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: GTA 6 pode concorrer a JOGO DO ANO no The Game Awards 2026 🏆 Ele sai em 19/11, um dia antes do prazo final de inscrição (20/11).
+
+Vai levar o GOTY? Comenta! E segue pra não perder o de amanhã 👇
+
+Vídeo: Rockstar Games | Fonte: The Game Awards (regras de elegibilidade)
+
+#GTA6 #GTAVI #GTA6Brasil #TheGameAwards #GOTY #ViceCity #Contagem #GamesBR
+
+
+## Contagem 26 — Faltam 26 dias (cd26.mp4)
+FALTAM 26 DIAS pra GTA 6! ⏳🔥
+
+Fato do dia: GTA 6 pode concorrer a JOGO DO ANO no The Game Awards 2026 🏆 Ele sai em 19/11, um dia antes do prazo final de inscrição (20/11).
+
+Vai levar o GOTY? Comenta! E segue pra não perder o de amanhã 👇
+
+Vídeo: Rockstar Games | Fonte: The Game Awards (regras de elegibilidade)
+
+#GTA6 #GTAVI #GTA6Brasil #TheGameAwards #GOTY #ViceCity #Contagem #GamesBR
+
+## Curto 1 — POV dia 19/11 (curto1_pov.mp4)
+POV: é dia 19/11 e você finalmente abre GTA 6 🪂🌴
+
+Quem mais tá contando os dias? 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #POV #Gameplay #GamesBR
+
+## Curto 2 — O que você faz primeiro? (curto2_top5.mp4)
+O que você faz PRIMEIRO em GTA 6? 👀
+
+1️⃣ Paraquedas
+2️⃣ Aerobarco
+3️⃣ Mergulho
+4️⃣ Basquete
+5️⃣ Academia
+
+Comenta o número! 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #GamesBR
+
+## Curto 3 — Olha o nível de GTA 6 (curto3_real.mp4)
+Olha o nível de GTA 6 🤯 Direto do vídeo oficial da Rockstar.
+
+Nota de 0 a 10 pros gráficos? 👇
+
+Vídeo: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #Graficos #ViceCity #Gameplay #GamesBR
+
+## Curto 4 — Cheats do San Andreas (curto4_cheats.mp4)
+Quem nunca decorou esses códigos no PS2? 🎮🥹
+
+Os cheats mais famosos de GTA San Andreas: vida e $250 mil, armas, tanque Rhino, jetpack, carros voadores e super pulo. Tem a sequência do PS2 e o código do PC (HESOYAM 😂).
+
+SALVA o post pra testar depois!
+
+Será que os cheats voltam em GTA 6? A Rockstar ainda não confirmou. Qual você usaria primeiro? 👇
+
+Códigos: GTA San Andreas (PS2/PC) | Fontes: GTABase, GamesRadar
+
+#GTA6 #GTAVI #GTA6Brasil #GTASanAndreas #Cheats #HESOYAM #Nostalgia #PS2 #GamesBR
+
+## Curto 5 — Todos os mapas de GTA (curto5_mapas.mp4)
+Todos os mapas de GTA, do primeiro até GTA 6 🗺️🔥
+
+🏙️ GTA 1 (1997): Liberty City
+🌉 GTA III (2001): Liberty City
+🌴 Vice City (2002)
+🌵 San Andreas (2004): 3 cidades num estado
+🗽 GTA IV (2008): Liberty City
+☀️ GTA V (2013): Los Santos e Blaine County
+🐊 GTA VI (2026): Leonida, o maior mapa da Rockstar, cerca de 2x o de GTA V
+
+Qual mapa é o seu favorito? 👇
+
+Mapas: Rockstar Games (via GTA Wiki) | Leonida: mapa ilustrativo, o oficial ainda não foi revelado
+
+#GTA6 #GTAVI #GTA6Brasil #MapaGTA #GTASanAndreas #GTAViceCity #GTA5 #Nostalgia #GamesBR
+
+## Curto 6 — GTA 5 x GTA 6: a mesma cena (curto6_vs.mp4)
+GTA 5 (2013) x GTA 6 (2026): a MESMA cena 🤯
+
+🏙️ A cidade
+🪂 Paraquedas
+🚤 Na água
+🤿 Mergulho
+🏋️ Treino (da ioga do Michael à academia da Lucia 😂)
+
+13 anos de diferença. Qual evolução te impressionou mais? 👇
+
+Vídeos oficiais: Rockstar Games
+
+#GTA6 #GTAVI #GTA5 #GTAV #GTA6Brasil #Comparacao #ViceCity #LosSantos #GamesBR
+
+## News 1 — South Park (news1_southpark.mp4)
+🚨 Saiu gameplay NOVA de GTA 6... dentro de um episódio de SOUTH PARK 😂
+
+No episódio "Guinea Pig on a Stick", exibido ontem nos EUA, aparece um trecho de GTA 6: o Jason vê um cara deixando o cachorro fazer cocô na praia, arruma briga e taca o saquinho de cocô na cabeça dele 💩
+
+Essa é a mecânica mais importante de GTA 6? 😂👇
+
+Fonte: South Park via VGC | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #SouthPark #ViceCity #Noticia #GamesBR
+
+## R1-dump — Imagens novas de GTA 6
+A Rockstar soltou IMAGENS NOVAS de GTA 6 🔥 Saíram na edição especial da revista Edge.
+
+Tem gangue de motoqueiro no interior, aerobarco no pântano, tubarão no fundo do mar, Lucia na balada e o Jason no meio do fogo 🤯
+
+Qual é a melhor? Comenta o número 👇
+
+Imagens: Rockstar Games (via revista Edge)
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Rockstar #GamesBR
+
+## R2-soma — Quanto mede Leonida
+Quanto mede o mapa de GTA 6? 🗺️
+
+Segundo a revista Edge, Leonida tem QUASE o tamanho de GTA IV + GTA V + Red Dead Redemption 2 SOMADOS 🤯
+
+Vai dar conta de explorar tudo? 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games | Mapas: GTA Wiki
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #MapaGTA6 #GTA5 #RDR2 #GamesBR
+
+## R3-perfil — Perfil Criminal
+GTA 6 vai te JULGAR 😇😈
+
+Novidade revelada pela revista Edge: o Perfil Criminal
+😇 Seu comportamento vai de Profissional a Irredimível
+🔫 Dá pra render e intimidar antes de partir pra violência
+📖 O seu perfil pode influenciar a história de Jason e Lucia
+
+Você vai ser anjo ou demônio? Comenta 😇 ou 😈
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #PerfilCriminal #ViceCity #GamesBR
+
+## R4-npcs — NPCs não são mais bobos
+Os NPCs de GTA 6 NÃO são mais bobos 😳
+
+🔫 Andar com espingarda na mão deixa o povo em alerta, mesmo sem mirar
+🛒 Em assalto, a vítima pode revidar e um cliente pode se meter
+🚗 Tem motorista armado que não entrega o carro fácil
+🏘️ Em uns bairros o povo foge, em outros te encara
+
+Qual vai te irritar mais? 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #NPC #ViceCity #GamesBR
+
+## R5-policia — Fugir da polícia ficou difícil
+Fugir da polícia em GTA 6 ficou DIFÍCIL 🚔
+
+🐕 Unidades K-9, com cães, entram nas perseguições
+👕 A procura leva em conta onde você está, sua roupa e quem está com você
+📡 Alguns veículos têm rastreador
+
+Você foge ou se entrega? 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #Policia #ViceCity #GamesBR
+
+## R6-casal — Jason e Lucia têm 4 níveis
+Jason e Lucia têm 4 NÍVEIS de relacionamento 💞
+
+💑 Diferente do GTA V, os dois já começam com uma história juntos
+📈 A proximidade cresce quanto mais tempo eles passam juntos
+🔁 Dá pra alternar entre os dois, como no GTA V
+🚪 Largar a vida do crime é um dos grandes temas da história
+
+Você vai jogar mais com quem? Comenta JASON ou LUCIA 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #JasonELucia #ViceCity #GamesBR
+
+## R7-servicos — Coisas que nunca teve em GTA
+Coisas que NUNCA teve em GTA 👀
+
+🛵 Scooter Bros: leva seu carro até você, com as armas no porta-malas
+📱 App WAINK: mostra carros procurados por receptadores, e carro inteiro paga mais
+☕ Café dá estamina e shake de proteína dá vida extra
+⛽ Gasolina: tem que abastecer, mas é rápido e o tanque dura bastante
+
+Qual você mais curtiu? 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #GamesBR
+
+## R8-viva — Leonida vai parecer real
+Leonida vai parecer REAL 🌴
+
+🚌 Rede de ônibus e trem funcionando, e Jason e Lucia podem usar
+🌅 O ciclo de dia e noite é bem mais longo que no GTA V
+🏢 Muito mais lugares pra entrar do que nos GTAs anteriores
+🦈 Dá pra mergulhar e dar de cara com tubarão
+
+O que você faz primeiro? 👇
+
+Fonte: revista Edge | Imagens: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #GamesBR
+
+## R9-voteJL — Quem é mais estiloso
+Quem é mais estiloso: JASON ou LUCIA? 😎
+
+Comenta J ou L 👇
+
+Imagens: Rockstar Games (via revista Edge)
+
+#GTA6 #GTAVI #GTA6Brasil #JasonDuval #LuciaCaminos #GamesBR
+
+## R10-voteLugar — Onde você vai morar
+Onde você vai morar em Leonida? 🏙️🐊
+
+🌴 V: Vice City, a cidade, a praia e a roda-gigante
+🌿 P: Grassrivers, o pântano, os aerobarcos e os jacarés
+
+Comenta V ou P 👇
+
+Imagens: Rockstar Games (via revista Edge)
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #GamesBR
+
+## R11-criminosos — Os criminosos de GTA 6
+Os criminosos de GTA 6 que vão cruzar o caminho de Jason e Lucia 👀
+
+1️⃣ Raul Bautista: ladrão de banco veterano
+2️⃣ Brian Heder: traficante das Keys
+3️⃣ Cal Hampton: o amigo que ouve o rádio da Guarda Costeira
+
+Em quem você confiaria? Comenta o nome 👇
+
+Artes oficiais: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #RockstarGames #GamesBR
+
+## R12-rap — O rap de Vice City
+A cena do rap de Vice City em GTA 6 🎤🔥
+
+1️⃣ Boobie Ike: lenda da cidade, dono de boate e estúdio
+2️⃣ Dre'Quan Priest: quer estourar na música
+3️⃣ Real Dimez: a dupla que bomba nas redes
+
+Quem você quer conhecer primeiro? 👇
+
+Artes oficiais: Rockstar Games
+
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #GamesBR
+
+## R13-vs2 — GTA 5 x GTA 6: a mesma cena (parte 2)
+13 anos de diferença na mesma cena 🤯
+
+Volante, assalto, explosão, rua e mar: GTA V (2013) x GTA VI (2026).
+
+Qual te deixou mais ansioso? Comenta 👇
+
+Vídeos oficiais: Rockstar Games
+
+#GTA6 #GTAVI #GTA5 #GTA6Brasil #GamesBR
+
+## R14-hora — Que horas GTA 6 libera no Brasil
+Que horas GTA 6 libera no Brasil? ⏰
+
+🇧🇷 Brasília/SP: 00h do dia 19/11
+🕐 Manaus: 23h do dia 18
+🕐 Acre: 22h do dia 18
+⚠️ A Nova Zelândia joga 16h antes: cuidado com spoiler!
+📥 Pré-download: 12/11 (versão digital)
+
+Horários da PlayStation Store (PS5), podem mudar. Xbox ainda sem horário por país.
+
+Manda pra quem vai virar a noite 👇
+
+#GTA6 #GTAVI #GTA6Brasil #PS5 #GamesBR
+
+## R15-quiz — Só fã raiz acerta as 4
+Só fã raiz acerta as 4 🧠🎮
+
+Quantas você acertou? Comenta 4/4 👇
+
+Imagens: Rockstar Games | Mapas: GTA Wiki
+
+#GTA6 #GTAVI #GTASanAndreas #GTAViceCity #GTA6Brasil #GamesBR

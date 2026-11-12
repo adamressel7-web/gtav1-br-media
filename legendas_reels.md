@@ -608,3 +608,16 @@ Comenta aí 👇
 
 🎥 Gameplay oficial: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## RG — Real ou GTA 6
+REAL ou GTA 6? 🤔📸
+
+5 imagens: algumas são fotos reais de Miami, outras são do gameplay oficial de GTA 6. Dá pra diferenciar?
+
+Quantas você acertou? Comenta de 0 a 5 👇
+Marca aquele amigo que jura que "é só um jogo" 😅
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+📷 Fotos reais: P. Hughes (CC BY 4.0) e Gabriel Kaplan (CC BY 3.0), via Wikimedia Commons
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX

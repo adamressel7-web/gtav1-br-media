@@ -621,3 +621,20 @@ Marca aquele amigo que jura que "é só um jogo" 😅
 🎥 Gameplay oficial: Rockstar Games
 📷 Fotos reais: P. Hughes (CC BY 4.0) e Gabriel Kaplan (CC BY 3.0), via Wikimedia Commons
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
+
+## RR — Regiões de Leonida
+Pra onde você vai primeiro em GTA 6? 🗺️🚗
+
+As 6 regiões de Leonida:
+1️⃣ Vice City
+2️⃣ Leonida Keys
+3️⃣ Grassrivers
+4️⃣ Port Gellhorn
+5️⃣ Ambrosia
+6️⃣ Mount Kalaga
+
+Comenta a região que você vai explorar primeiro 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🖼️ Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX

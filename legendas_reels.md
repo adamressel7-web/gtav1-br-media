@@ -495,3 +495,116 @@ Quantas você acertou? Comenta 4/4 👇
 Imagens: Rockstar Games | Mapas: GTA Wiki
 
 #GTA6 #GTAVI #GTASanAndreas #GTAViceCity #GTA6Brasil #GamesBR
+
+## F7 — Faltam 7
+Faltam 7 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: curtir uma festa VIP 🥂
+
+Você vai de festa ou de missão? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F6 — Faltam 6
+Faltam 6 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: almoçar num restaurante na cobertura 🍹
+
+Qual a primeira coisa que você vai fazer? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F5 — Faltam 5
+Faltam 5 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: fugir de carro pelos becos 🚗
+
+Você foge ou se entrega? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F4 — Faltam 4
+Faltam 4 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: curtir a vista de Vice City do alto 🏙️
+
+Você vai explorar ou ir direto pra história? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F3 — Faltam 3
+Faltam 3 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: gravar vídeo pras redes sociais 📱
+
+Vai postar seus vídeos do jogo? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F2 — Faltam 2
+Faltam 2 dias pra GTA 6 🔥
+
+Coisas que dá pra fazer em GTA 6: ver Vice City acesa à noite 🌃
+
+Você joga de dia ou de madrugada? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## F1 — Falta 1
+FALTA 1 DIA pra GTA 6 🔥🔥🔥
+
+Amanhã, 19/11, você faz tudo isso!
+
+Já fez o pré-download? Comenta aí 👇
+
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## D19 — Coisa nº 19
+Coisas que dá pra fazer em GTA 6, nº 19: entrar no apê da Lucia 💗
+
+Jason ou Lucia: com quem você vai jogar mais? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## D20 — Coisa nº 20
+Coisas que dá pra fazer em GTA 6, nº 20: invadir um escritório à noite 🔦
+
+Missão silenciosa ou na base do tiro? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## D21 — Coisa nº 21
+Coisas que dá pra fazer em GTA 6, nº 21: levar o comparsa pro assalto 😷
+
+Quem vai ser seu parceiro de crime? Comenta aí 👇
+
+📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## L16 — Chegou
+CHEGOU O DIA! GTA 6 está disponível 🔥🎮
+
+Tudo que dá pra fazer em Leonida, num vídeo só. Qual você vai fazer primeiro?
+
+Comenta aí 👇
+
+🎥 Gameplay oficial: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX

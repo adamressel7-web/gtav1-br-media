@@ -906,3 +906,48 @@ Quantos anos você tinha quando jogou GTA V pela primeira vez? Comenta aí 👇
 
 Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTAV #GTA6Brasil #Nostalgia #ViceCity #LosSantos #PS5
+
+## PERIGO — Lugares perigosos de Leonida (teoria)
+TEORIA: os lugares mais perigosos de Leonida 🐊🌲
+
+🐊 Grassrivers: um pântano enorme, e fã aposta em jacaré escondido na água
+🌙 Caiu na água à noite? Boa sorte
+🌲 Mount Kalaga: mata fechada, longe de tudo; a teoria fala em animais selvagens e caçadores
+🔫 A dica que circula: nunca entre nessas áreas sem um rifle
+
+⚠️ É teoria de fã! A Rockstar não confirmou nada disso.
+
+Você entraria no pântano à noite? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #Leonida #Grassrivers #MountKalaga #Teoria #PS5
+
+## ROUBO — Como roubar carro em GTA 6
+Como roubar carro em GTA 6 🚗🔓
+
+📱 Waink: o app escaneia o carro e mostra trava, alarme, rastreador e quanto ele vale no desmanche
+🪟 Carro antigo: quebra o vidro ou abre com Slim Jim
+🔑 Carro de luxo: só com clonador de chave, sem disparar o alarme
+🚦 Carro andando: é só tirar o motorista. Clássico
+
+Qual carro você vai roubar primeiro? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Rockstar North em entrevista à IGN e prévias da imprensa | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Carros #Gameplay #PS5
+
+## GARAGEM — Só 3 vagas na garagem (boato)
+BOATO: em GTA 6, sua garagem começaria com só 3 vagas 🚗🚙🏎️
+
+Vai ter que escolher muito bem:
+🛞 Um clássico de rodão?
+🏁 Um esportivo dos anos 80?
+🌴 Ou um off-road pra rodar Leonida inteira?
+
+⚠️ É boato até a Rockstar confirmar!
+
+Quais seriam as suas 3? Comenta aí 👇
+
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Carros #Garagem #Boato #PS5

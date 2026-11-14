@@ -98,6 +98,21 @@ def card(slide):
 
 CARDS = [card(s) for s in S["slides"]]
 DUR = [int(FPS * max(4.2, 1.6 + 0.36 * len(re.sub(r"[*=]", "", s["text"]).split()))) for s in S["slides"]]
+
+# ---------- narração (edge-tts) ----------
+VO = []
+if any(s.get("say") for s in S["slides"]):
+    import os, hashlib
+    voice = S.get("voice", "pt-BR-AntonioNeural"); rate = S.get("rate", "+8%")
+    os.makedirs("/root/cards/vo", exist_ok=True)
+    for i, s in enumerate(S["slides"]):
+        if not s.get("say"): VO.append(None); continue
+        h = hashlib.md5((voice + rate + s["say"]).encode()).hexdigest()[:12]; mp3 = f"/root/cards/vo/{h}.mp3"; wv = mp3[:-4] + ".wav"
+        if not os.path.exists(wv):
+            subprocess.run(["edge-tts", "--voice", voice, f"--rate={rate}", "--text", s["say"], "--write-media", mp3], check=True)
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", mp3, "-ac", "1", "-ar", "48000", wv], check=True)
+        with wave.open(wv) as w: a = np.frombuffer(w.readframes(w.getnframes()), np.int16).astype(np.float32) / 32768
+        VO.append(a); DUR[i] = max(int(FPS * (len(a) / 48000 + 0.9)), int(FPS * 2.5))
 DUR[-1] += 30
 STARTS = np.cumsum([0] + DUR[:-1]); TOTAL = int(sum(DUR))
 ease = lambda x: 1 - (1 - max(0, min(1, x))) ** 3
@@ -152,10 +167,13 @@ def audio(path):
     if msr != sr: m = np.interp(np.arange(0, len(m), msr / sr), np.arange(len(m)), m)
     L = int(TOTAL / FPS * sr); reps = int(np.ceil(L / len(m))); m = np.tile(m, reps)[:L]
     fade = np.ones(L); fl = int(1.2 * sr); fade[-fl:] = np.linspace(1, 0, fl)
-    out = m * 0.6 * fade
+    out = m * (0.22 if VO else 0.6) * fade
     wl = int(0.3 * sr); wh = 0.18 * np.random.randn(wl) * np.hanning(wl)
     for s0 in STARTS[1:]:
         s = int(s0 / FPS * sr); e = min(L, s + wl); out[s:e] += wh[:e - s]
+    for i, a in enumerate(VO):
+        if a is None: continue
+        s = int(STARTS[i] / FPS * sr) + int(0.3 * sr); e = min(L, s + len(a)); out[s:e] += a[:e - s] * 1.1
     with wave.open(path, "wb") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr); w.writeframes((np.clip(out, -1, 1) * 32767).astype(np.int16).tobytes())
 

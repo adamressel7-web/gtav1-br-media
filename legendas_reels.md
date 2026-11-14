@@ -878,3 +878,18 @@ Comenta o número 👇 e marca o amigo que é o 2 😂
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Gamer #PS5 #XboxSeriesX
+
+## ERROS — 5 erros pra não cometer no dia 19
+5 erros que você NÃO pode cometer no dia 19 ⚠️
+
+1️⃣ Deixar pra baixar na hora: são 212 GB recomendados no PS5, e a atualização 1.002 é obrigatória
+2️⃣ Andar com muito dinheiro no bolso: segundo as prévias, morreu ou foi preso, perdeu
+3️⃣ Esquecer de depositar: só no caixa eletrônico
+4️⃣ Sair atirando em policial: o jogo registra a violência dos seus crimes no perfil criminal
+5️⃣ Fugir sempre juntos: separar o casal divide a polícia e tira 1 estrela
+
+Qual desses erros você ia cometer? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Rockstar Games e prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Dicas #Gameplay #PS5

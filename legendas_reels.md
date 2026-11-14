@@ -831,3 +831,50 @@ E você: Padrão ou Ultimate? Comenta aí 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: Rockstar Games / PlayStation Store | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #PrecoGTA6 #PS5 #XboxSeriesX #ViceCity
+
+## DIN — 5 regras do dinheiro
+5 regras do dinheiro que vão doer em GTA 6 💸😬
+
+Segundo as prévias da imprensa que já jogou:
+1️⃣ Morreu ou foi preso? O dinheiro que você carrega some
+2️⃣ Depósito só no caixa eletrônico, numa conta conjunta (nada de banco pelo celular)
+3️⃣ Algumas missões só liberam com um valor mínimo no bolso
+4️⃣ Joias, dinheiro marcado e contrabando: só vendendo pra um receptador
+5️⃣ A bolsa define quanto você leva do roubo, mas o porta-malas é o limite
+
+Qual dessas vai doer mais em você? Comenta o número 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fonte: prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Gameplay #PS5
+
+## INED — Coisas que nenhum GTA deixou fazer
+Coisas que nenhum GTA deixou fazer… e GTA 6 vai deixar 🤯
+
+Segundo as prévias da imprensa:
+💪 Seu corpo muda: comeu demais, engorda; foi pra academia, ganha músculo
+🏃‍♀️🏃 Separar o casal na fuga divide a polícia e tira 1 estrela
+👮 A polícia lembra da roupa, da arma e do carro do crime
+🔫 Acabou o arsenal infinito: 2 pistolas e 2 rifles no corpo, o resto no porta-malas
+🛵 Carro por app: o Scooter Bros traz seu carro até você
+
+Qual você vai testar primeiro? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fonte: prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Novidades #Gameplay #PS5
+
+## TIPO — Qual jogador você vai ser
+No dia 19, qual jogador você vai ser? 🎮
+
+1️⃣ O da história
+2️⃣ O mete o louco
+3️⃣ O juntador
+4️⃣ O turista
+5️⃣ O da academia
+
+Comenta o número 👇 e marca o amigo que é o 2 😂
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Gamer #PS5 #XboxSeriesX

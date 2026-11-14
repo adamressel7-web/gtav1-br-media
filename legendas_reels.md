@@ -978,3 +978,18 @@ Valeu os 13 anos de espera? Comenta SIM ou NÃO 👇
 
 Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTAV #GTA6Brasil #ViceCity #Graficos #PS5
+
+## CONSOLE — Onde GTA 6 roda melhor
+PS5, PS5 Pro ou Xbox: onde GTA 6 roda melhor? 🎮
+
+🎯 A Rockstar confirmou: 30 FPS em todos os consoles
+🔵 PS5: vibração do controle pelo jogo todo, som 3D e carregamento mais rápido
+💎 PS5 Pro: imagem mais nítida com PSSR e sombras com ray tracing que só ele tem
+🟢 Xbox Series X e S: roda direto no console, com pré-download liberado
+☁️ Xbox One: só pela nuvem do Xbox, com os gráficos do Series S
+
+E aí: PS5 ou Xbox? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11
+Fontes: Rockstar Newswire e Xbox Wire (10/11) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #PS5 #PS5Pro #XboxSeriesX #Xbox

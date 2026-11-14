@@ -638,3 +638,34 @@ Comenta a região que você vai explorar primeiro 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 🖼️ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+
+## UP — Primeira atualização
+GTA 6 já tem ATUALIZAÇÃO, e o jogo nem lançou 😳🔧
+
+📦 Versão 1.002 começou a chegar hoje (13/11) no PS5 e no Xbox Series
+💾 Cerca de 1 GB, obrigatória pra jogar no dia 19
+❓ A Rockstar ainda não divulgou o que mudou
+🗄️ No total, a Rockstar recomenda 212 GB livres no PS5
+
+Já baixou a sua? Comenta SIM ou NÃO 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: PlayStation LifeStyle, Tech Times | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida
+
+## VD — Recordes de vendas
+GTA 6 vai quebrar TODOS os recordes? 📈🔥
+
+As previsões das empresas de análise:
+📦 51 milhões de cópias na 1ª semana (Newzoo)
+💰 US$ 4,5 bilhões só na semana de lançamento (Newzoo)
+🚀 45 milhões no 1º dia (Piper Sandler)
+🛒 US$ 260 milhões em pré-venda: a maior abertura que a Newzoo já registrou
+
+São estimativas, os números oficiais só saem depois do lançamento.
+
+Você vai ser um deles? Comenta: já comprou? 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Newzoo, Piper Sandler (via Wccftech) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida

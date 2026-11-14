@@ -713,3 +713,17 @@ Você acredita? Comenta SIM ou NÃO 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fonte: GameByte | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #LuciaCaminos #JasonDuval #GTA6Brasil #ViceCity #Teoria #PS5
+
+## BR — GTA 6 invadiu o Brasil
+GTA 6 INVADIU O BRASIL 🇧🇷🔥
+
+📺 Passou comercial de GTA 6 na Globo, no dia 7/11, no meio da transmissão da Fórmula 1
+🚇 Estações da Linha 4 Amarela do metrô de São Paulo estão adesivadas com GTA 6
+🗽 Em Nova York, telões na Times Square e uma faixa "I love Vice City"
+🌴 E tem mais: carros de GTA nas ruas de Miami, prédio em Paris e uma estação de metrô inteira adesivada em Singapura
+
+Você viu GTA 6 na sua cidade? Comenta onde 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Canaltech, Critical Hits | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #SaoPaulo #ViceCity #PS5 #XboxSeriesX

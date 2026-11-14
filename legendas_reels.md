@@ -784,3 +784,32 @@ Qual você mais vai usar? Comenta 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: IGN, revista Edge, TGG (via GTABoom e Beebom) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #Leonida #ViceCity #PS5 #XboxSeriesX
+
+## CTR — Contrato de convivência
+Antes do dia 19, assina aqui 📝😂
+
+O contrato oficial de convivência do lançamento de GTA 6:
+✅ 10 dias de jogo sem interrupção
+🚫 Proibido dizer "é só um jogo"
+💬 Nada de "a gente precisa conversar" no meio da missão
+❤️ Carinho só na tela de carregamento
+🍽️ A louça fica pra depois do assalto
+
+Marca quem precisa assinar 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Meme #Casal #Gamer #PS5
+
+## SEIS — 6 estrelas (boato)
+BOATO: com 6 estrelas, a polícia te caça no mapa inteiro? 🚨🚔
+
+O que é oficial: os trailers mostram muita perseguição policial em Leonida.
+O que NÃO é oficial: como vai funcionar o nível de procurado. A Rockstar ainda não detalhou.
+
+⚠️ É boato até a Rockstar confirmar!
+
+Você aguentaria quanto tempo com 6 estrelas? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Boato #Policia #PS5

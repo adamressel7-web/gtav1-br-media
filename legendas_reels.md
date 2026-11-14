@@ -813,3 +813,21 @@ Você aguentaria quanto tempo com 6 estrelas? Comenta aí 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Boato #Policia #PS5
+
+## PRECO — Quanto custa GTA 6 no Brasil
+Quanto custa GTA 6 no Brasil? 💸
+
+💿 Edição Padrão: R$ 449,90
+⭐ Edição Ultimate: R$ 549,90
+(mesmo preço na PS Store e na Xbox Store)
+
+⬆️ Melhoria da Padrão pra Ultimate: R$ 100
+🎁 Reservando até 20/11, as duas edições levam o Pacote Vintage Vice City
+
+🌎 Lá fora: no Japão sai por cerca de R$ 345 e em Israel por cerca de R$ 560 (câmbio de 10/11). O Brasil fica no meio da tabela.
+
+E você: Padrão ou Ultimate? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Rockstar Games / PlayStation Store | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #PrecoGTA6 #PS5 #XboxSeriesX #ViceCity

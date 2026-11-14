@@ -640,7 +640,7 @@ Comenta a região que você vai explorar primeiro 👇
 ## UP — Primeira atualização
 GTA 6 já tem ATUALIZAÇÃO, e o jogo nem lançou 😳🔧
 
-📦 Versão 1.002 começou a chegar hoje (13/11) no PS5 e no Xbox Series
+📦 Versão 1.002 começou a chegar em 13/11 no PS5 e no Xbox Series
 💾 Cerca de 1 GB, obrigatória pra jogar no dia 19
 ❓ A Rockstar ainda não divulgou o que mudou
 🗄️ No total, a Rockstar recomenda 212 GB livres no PS5

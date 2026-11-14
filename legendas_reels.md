@@ -951,3 +951,18 @@ Quais seriam as suas 3? Comenta aí 👇
 
 Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Carros #Garagem #Boato #PS5
+
+## AMB — Ambrosia
+Antes de jogar GTA 6, guarda esse nome: AMBROSIA 🏭🏍️
+
+📍 Fica no coração de Leonida, longe das praias de Vice City
+🏭 Quem dá emprego por lá é a refinaria de açúcar Allied Crystal
+🏍️ Quem manda nas ruas são os motoqueiros da Chapter
+
+🧠 TEORIA: com fábrica, gangue e dinheiro sujo, fã aposta que vai sair missão pesada daqui. A Rockstar não confirmou!
+
+Você vai trabalhar com os motoqueiros ou bater de frente? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fonte: site oficial de GTA VI | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #Ambrosia #Leonida #Teoria #PS5

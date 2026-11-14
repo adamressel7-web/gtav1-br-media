@@ -103,7 +103,7 @@ DUR = [int(FPS * max(4.2, 1.6 + 0.36 * len(re.sub(r"[*=]", "", s["text"]).split(
 PRON = [("Vice City", "Váice Síti"), ("Grassrivers", "Grás Rívers"), ("Leonida Keys", "Leônida Kíis"), ("Keys", "Kíis"),
         ("Rockstar Games", "Róckstar Guêims"), ("Rockstar", "Róckstar"), ("Leonida", "Leônida"), ("Port Gellhorn", "Pórt Guélhorn"),
         ("Mount Kalaga", "Máunt Kalága"), ("Jason", "Djêison"), ("PS Store", "pê ésse Stór"), ("Xbox Store", "Écsbox Stór"),
-        ("Xbox 360", "Écsbox trezentos e sessenta"), ("Xbox", "Écsbox"), ("PS5", "pê ésse cinco"), ("PS4", "pê ésse quatro"), ("PS3", "pê ésse três"), ("Ultimate", "Áltimeit"), ("Scooter Bros", "Scúter Brôs"), ("Macca", "Máka"), ("Slim Jim", "Slim Djim"), ("Waink", "Uêinc"), ("WAINK", "Uêinc"),
+        ("Xbox 360", "Écsbox trezentos e sessenta"), ("Xbox", "Écsbox"), ("PS5", "pê ésse cinco"), ("PS4", "pê ésse quatro"), ("PS3", "pê ésse três"), ("Ultimate", "Áltimeit"), ("Scooter Bros", "Scúter Brôs"), ("Macca", "Máka"), ("Allied Crystal", "Álaid Crístal"), ("Chapter", "Tchépter"), ("Ambrosia", "Ambrósia"), ("Slim Jim", "Slim Djim"), ("Waink", "Uêinc"), ("WAINK", "Uêinc"),
         ("Sensor Tower", "Sênsor Táuer"), ("trailers", "trêilers"), ("trailer", "trêiler"), ("Vintage", "Víntedj"), ("online", "onláine"),
         ("Online", "Onláine"), ("1.002", "um ponto zero zero dois"), ("GB", "gigas"), ("Series", "Séries"), ("GTA V", "GTA cinco"), ("GTA 6", "GTA seis"), ("GTA VI", "GTA seis"), ("Rockstar's", "da Róckstar")]
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]

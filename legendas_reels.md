@@ -767,3 +767,22 @@ E aí, quanto tempo demorou o seu pré-download? Comenta 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: DE-CIX via cash.ch, Critical Hits | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #Internet #ViceCity
+
+## APP — Apps do celular
+Os APPS do celular de GTA 6 📱🔥
+
+Os que já apareceram nas prévias da imprensa:
+🚗 WAINK: escaneia o carro antes do roubo (alarme, rastreador e quanto vale)
+📸 SNAPMATIC: a rede social do jogo; dá pra seguir contas, mas Jason e Lucia não postam
+🚕 RYDE ME: o "Uber" de Leonida, pra viajar mais rápido
+🛵 SCOOTER BROS: leva o seu carro até você, por uma taxa
+💸 BUCKME: banco digital pra guardar o dinheiro
+💪 APP DE FITNESS: mede sono e cansaço, que afetam os atributos
+
+⚠️ Tem mais app circulando por aí (como o WhatUp, de mensagens), mas ainda sem confirmação.
+
+Qual você mais vai usar? Comenta 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: IGN, revista Edge, TGG (via GTABoom e Beebom) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #Leonida #ViceCity #PS5 #XboxSeriesX

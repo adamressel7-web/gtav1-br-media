@@ -1,7 +1,7 @@
-{"music":"/root/cards/m_epic.wav","tag":"PREVISÕES","hook":["GTA 6 VAI QUEBRAR","**TODOS OS RECORDES**?"],"hookSub":"Os números que estão prevendo",
+{"music":"/root/musica/m00_synthwave2.wav","tag":"PRÉ-VENDA","hook":["GTA 6 JÁ QUEBROU","**RECORDE**?"],"hookSub":"E o jogo nem lançou ainda",
 "items":[
-{"img":"/root/rr/img/Vice_City_08*","fx":0.5,"title":"**51 MILHÕES**","sub":["de cópias na 1ª semana,","segundo a Newzoo"]},
-{"img":"/root/rr/img/Vice_City_02*","fx":0.55,"title":"US$ **4,5 BILHÕES**","sub":["previstos só na semana","de lançamento"]},
-{"img":"/root/rr/img/Port_Gellhorn_01*","fx":0.42,"title":"**45 MILHÕES** NO 1º DIA","sub":["estimativa do banco","Piper Sandler"]},
-{"img":"/root/rr/img/Leonida_Keys_05*","fx":0.45,"title":"US$ **260 MILHÕES**","sub":["em pré-venda: a maior abertura","que a Newzoo já registrou"]}],
-"end":["VOCÊ VAI SER","**UM DELES**?"],"endSub":"Comenta: já comprou?","credit":"Imagens oficiais: Rockstar Games"}
+{"img":"/root/rr/img/Vice_City_08*","fx":0.5,"title":"US$ **1 BILHÃO**","sub":["em pré-venda, antes de lançar","(estimativa da Sensor Tower)"]},
+{"img":"/root/rr/img/Vice_City_02*","fx":0.55,"title":"+ DE **10 MILHÕES**","sub":["de cópias vendidas","só na pré-venda"]},
+{"img":"/root/rr/img/Port_Gellhorn_01*","fx":0.42,"title":"**75%** NO PLAYSTATION","sub":["A maior parte da receita","vem do PS5"]},
+{"img":"/root/rr/img/Leonida_Keys_05*","fx":0.45,"title":"**51 MILHÕES**?","sub":["É quanto a Newzoo prevê","só na 1ª semana"]}],
+"end":["VOCÊ JÁ","**COMPROU**?"],"endSub":"Comenta SIM ou NÃO","credit":"Imagens oficiais: Rockstar Games"}

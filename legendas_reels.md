@@ -653,21 +653,20 @@ Já baixou a sua? Comenta SIM ou NÃO 👇
 Fontes: PlayStation LifeStyle, Tech Times | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida
 
-## VD — Recordes de vendas
-GTA 6 vai quebrar TODOS os recordes? 📈🔥
+## VD — Recorde na pré-venda
+GTA 6 já quebrou recorde, e o jogo nem lançou 💰🔥
 
-As previsões das empresas de análise:
-📦 51 milhões de cópias na 1ª semana (Newzoo)
-💰 US$ 4,5 bilhões só na semana de lançamento (Newzoo)
-🚀 45 milhões no 1º dia (Piper Sandler)
-🛒 US$ 260 milhões em pré-venda: a maior abertura que a Newzoo já registrou
+📦 Mais de US$ 1 bilhão em pré-venda, segundo a Sensor Tower
+🎮 Mais de 10 milhões de cópias vendidas só na pré-venda
+🕹️ 75% da receita vem do PlayStation
+📈 E a Newzoo prevê 51 milhões de cópias só na 1ª semana
 
-São estimativas, os números oficiais só saem depois do lançamento.
+São estimativas de empresas de análise; os números oficiais saem depois do lançamento.
 
-Você vai ser um deles? Comenta: já comprou? 👇
+Você já comprou? Comenta SIM ou NÃO 👇
 
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
-Fontes: Newzoo, Piper Sandler (via Wccftech) | Imagens oficiais: Rockstar Games
+Fontes: Sensor Tower (via Canaltech), Newzoo | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida
 
 ## ULT — Última volta em GTA V
@@ -727,3 +726,16 @@ Você viu GTA 6 na sua cidade? Comenta onde 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: Canaltech, Critical Hits | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #SaoPaulo #ViceCity #PS5 #XboxSeriesX
+
+## MAC — Macca & Friends
+GTA 6 vai ter DESENHO ANIMADO 🐊📺
+
+A Rockstar compartilhou o primeiro teaser de Macca & Friends:
+🕶️ Um jacaré de óculos escuros e os amigos do pântano, rodando por Leonida
+📺 O desenho passa no WEAZEL, canal de TV fictício do jogo
+📅 Estreia em 19/11, no mesmo dia do lançamento
+
+Você vai parar pra assistir na TV do jogo? Comenta SIM ou NÃO 👇
+
+Fontes: DiscussingFilm, GTABoom | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #MaccaAndFriends #GTA6Brasil #Leonida #PS5 #XboxSeriesX

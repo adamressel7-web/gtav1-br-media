@@ -1005,3 +1005,20 @@ Quantas você acertou? Comenta aí 👇
 🎥 Gameplay: Rockstar Games
 🎥 Miami: "Miami DJI Mini 4 Pro Cinematic 4K (60FPS)" por The Nomad With The Drone (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Miami #RealOuGTA6 #PS5
+
+## TEASER — Teaser novo (Pre-Load)
+A Rockstar soltou um TEASER NOVO de GTA 6 🔥🌴
+
+🪩 Vice City à noite: balada e neon
+💃 Dança de rua no meio da cidade
+🛥️ Lancha de luxo cortando o mar
+👊 E claro: porrada
+🔥 Fogo no escapamento
+
+📥 O pré-download já está liberado pra quem comprou digital!
+
+Qual cena você mais curtiu? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Teaser oficial "Pre-Load Now": Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Teaser #PreLoad #PS5

@@ -966,3 +966,15 @@ Você vai trabalhar com os motoqueiros ou bater de frente? Comenta aí 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fonte: site oficial de GTA VI | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #Ambrosia #Leonida #Teoria #PS5
+
+## VS — GTA V vs GTA 6
+GTA V vs GTA 6: quanto os gráficos evoluíram? 🔥
+
+🏎️ Os esportivos: de 2013 pra 2026
+🚙 Os carros de rua: reflexo, pintura e detalhe em outro nível
+🌴 E a cidade: de Los Santos pra Vice City
+
+Valeu os 13 anos de espera? Comenta SIM ou NÃO 👇
+
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTAV #GTA6Brasil #ViceCity #Graficos #PS5

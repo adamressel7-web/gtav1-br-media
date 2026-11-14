@@ -669,3 +669,47 @@ Você vai ser um deles? Comenta: já comprou? 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: Newzoo, Piper Sandler (via Wccftech) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida
+
+## ULT — Última volta em GTA V
+A ÚLTIMA VOLTA em GTA V 🚗🌅
+
+Os fãs lá fora estão organizando uma despedida de GTA V na véspera de GTA 6:
+📅 Dia 18/11 à noite, no GTA Online
+✈️ Saída: portão do Aeroporto de Los Santos
+🎡 Passa pelo píer de Del Perro
+⛰️ Termina em Paleto Bay e no Monte Chiliad
+🕊️ Regra: passeio em paz, sem tiro e sem roubo
+
+É um evento organizado pela comunidade, não pela Rockstar. Bora fazer a nossa aqui no Brasil? Comenta EU VOU e marca seu parceiro de corrida 👇
+
+Fonte: mxdwn Games | Imagens oficiais: Rockstar Games
+#GTA6 #GTAV #GTAOnline #GTA6Brasil #LosSantos #ViceCity #PS5 #XboxSeriesX
+
+## EMP — Empresas fechando
+Tem empresa FECHANDO pro lançamento de GTA 6 😂🎮
+
+🍔 Um restaurante avisou que no dia 19 vai estar fechado "resolvendo assuntos importantes em Vice City"
+🔧 Uma empresa de peças de carro também vai fechar no lançamento
+🗓️ E lá fora tem gente pedindo folga pro dia 19 desde agosto
+
+E o seu chefe, vai liberar? Marca ele aqui embaixo 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: OpenCritic, Fortune | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #ViceCity #Leonida #PS5 #XboxSeriesX
+
+## LUC — Lucia infiltrada (teoria)
+TEORIA: a Lucia é policial infiltrada? 🕵️‍♀️👀
+
+A teoria que está rodando lá fora:
+🔓 O site oficial diz que a Lucia saiu da prisão por "pura sorte"
+🤝 Fãs desconfiam que, na verdade, ela fez um acordo com a polícia
+💔 Na teoria, ela usaria o Jason de disfarce... ou acabaria se apaixonando
+
+⚠️ A Rockstar NUNCA confirmou nada disso. É só teoria de fã!
+
+Você acredita? Comenta SIM ou NÃO 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fonte: GameByte | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #LuciaCaminos #JasonDuval #GTA6Brasil #ViceCity #Teoria #PS5

@@ -753,3 +753,17 @@ Alguém mais assim? Marca quem tá igual 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: Bloomberg Línea, Brasil 61, Al Jazeera | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #Meme #ViceCity #PS5 #XboxSeriesX
+
+## NET — GTA 6 quebrou a internet
+GTA 6 QUEBROU A INTERNET 🌐💥
+
+Quando o pré-download liberou, no dia 10/11:
+📈 A DE-CIX, maior central de troca de tráfego da Europa, bateu recorde, com pico de 33 terabits por segundo somando todas as suas unidades
+🎮 Operadoras na Alemanha viram o tráfego de PlayStation e Xbox ficar até 10x maior que numa noite normal
+🇺🇸 Nos EUA, uma operadora chegou a dar upgrade grátis pra 1 Gbps pro pessoal baixar os 212 GB (não vale pro Brasil 😅)
+
+E aí, quanto tempo demorou o seu pré-download? Comenta 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: DE-CIX via cash.ch, Critical Hits | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #Internet #ViceCity

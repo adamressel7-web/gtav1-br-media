@@ -530,48 +530,45 @@ Você foge ou se entrega? Comenta aí 👇
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
 
 ## F4 — Faltam 4
-Faltam 4 dias pra GTA 6 🔥
+FALTAM 4 DIAS pra GTA 6 🔥📍
 
-Coisas que dá pra fazer em GTA 6: curtir a vista de Vice City do alto 🏙️
+Vice City é inspirada em Miami, e olha o nível dessa cidade 😍
 
-Você vai explorar ou ir direto pra história? Comenta aí 👇
+Comenta de onde você vai jogar no dia 19 👇
 
-📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
-🎥 Gameplay oficial: Rockstar Games
-#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
-
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## F3 — Faltam 3
-Faltam 3 dias pra GTA 6 🔥
+FALTAM 3 DIAS pra GTA 6 🔥📍
 
-Coisas que dá pra fazer em GTA 6: gravar vídeo pras redes sociais 📱
+De dia ou de noite, Miami já parece um mapa de GTA 🌴
 
-Vai postar seus vídeos do jogo? Comenta aí 👇
+Comenta de onde você vai jogar no dia 19 👇
 
-📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
-🎥 Gameplay oficial: Rockstar Games
-#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
-
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## F2 — Faltam 2
-Faltam 2 dias pra GTA 6 🔥
+FALTAM 2 DIAS pra GTA 6 🔥📍
 
-Coisas que dá pra fazer em GTA 6: ver Vice City acesa à noite 🌃
+Daqui a 2 dias, a gente troca Miami por Vice City 🎮
 
-Você joga de dia ou de madrugada? Comenta aí 👇
+Comenta de onde você vai jogar no dia 19 👇
 
-📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
-🎥 Gameplay oficial: Rockstar Games
-#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
+## F1 — Faltam 1
+FALTA 1 DIA pra GTA 6 🔥📍
 
-## F1 — Falta 1
-FALTA 1 DIA pra GTA 6 🔥🔥🔥
+AMANHÃ é dia de Vice City! Já fez o pré-download? 🔥
 
-Amanhã, 19/11, você faz tudo isso!
+Comenta de onde você vai jogar no dia 19 👇
 
-Já fez o pré-download? Comenta aí 👇
-
-🎥 Gameplay oficial: Rockstar Games
-#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
-
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
+#GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## D19 — Coisa nº 19
 Coisas que dá pra fazer em GTA 6, nº 19: entrar no apê da Lucia 💗
 

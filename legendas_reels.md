@@ -739,3 +739,17 @@ Você vai parar pra assistir na TV do jogo? Comenta SIM ou NÃO 👇
 
 Fontes: DiscussingFilm, GTABoom | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #MaccaAndFriends #GTA6Brasil #Leonida #PS5 #XboxSeriesX
+
+## FIM — O mundo acabando
+O mundo acabando e eu só pensando no dia 19 😂🌴
+
+💻 Microsoft fora do ar: Outlook e Teams caíram em mais de 70 países por 2 dias
+🔥 Super El Niño: pode ser um dos mais fortes da história
+📉 O CEO da Nvidia deixou o cargo nesta semana
+🎮 E eu? 19/11, Vice City.
+
+Alguém mais assim? Marca quem tá igual 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+Fontes: Bloomberg Línea, Brasil 61, Al Jazeera | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #Meme #ViceCity #PS5 #XboxSeriesX

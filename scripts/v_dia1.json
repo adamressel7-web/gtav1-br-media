@@ -1,0 +1,66 @@
+{
+ "src": "/root/feat_dl/ft.webm",
+ "music": "/root/musica/m07_tropicalhouse.wav",
+ "out": "/root/cards/DIA1.mp4",
+ "credit": "Gameplay oficial: Rockstar Games / PlayStation",
+ "segs": [
+  [
+   0,
+   2.5,
+   "7 COISAS PRO DIA 1",
+   "Sete coisas pra fazer no primeiro dia de GTA seis.",
+   "/root/fds/k1546.mp4"
+  ],
+  [
+   0,
+   2.5,
+   "1. VER O PÔR DO SOL",
+   "Um: ver o pôr do sol de Vice City.",
+   "/root/fds/k1570.mp4"
+  ],
+  [
+   0,
+   2.5,
+   "2. PEGAR UMA PRAIA",
+   "Dois: pegar uma praia.",
+   "/root/fds/k1110.mp4"
+  ],
+  [
+   19.3,
+   1.8,
+   "3. ROLÊ À NOITE",
+   "Três: dar um rolê de carro à noite."
+  ],
+  [
+   0,
+   2.5,
+   "4. PESCAR DE LANCHA",
+   "Quatro: pescar de lancha com os amigos.",
+   "/root/fds/k1550.mp4"
+  ],
+  [
+   0,
+   2.5,
+   "5. ENTRAR NO PÂNTANO",
+   "Cinco: entrar no pântano de Grassrivers.",
+   "/root/fds/k1030.mp4"
+  ],
+  [
+   17.1,
+   1.8,
+   "6. TRILHA DE MOTO",
+   "Seis: fazer uma trilha de moto."
+  ],
+  [
+   44.0,
+   1.5,
+   "7. PULAR DE PARAQUEDAS",
+   "Sete: pular de paraquedas sobre Vice City."
+  ]
+ ],
+ "end": [
+  "QUAL VOCÊ",
+  "FAZ PRIMEIRO?",
+  "Qual você faz primeiro? Comenta aí!"
+ ]
+}

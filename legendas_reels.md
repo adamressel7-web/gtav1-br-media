@@ -1022,3 +1022,36 @@ Qual cena você mais curtiu? Comenta aí 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 🎥 Teaser oficial "Pre-Load Now": Rockstar Games / PlayStation
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Teaser #PreLoad #PS5
+
+## FEAT — Trailer novo com gameplay
+Saiu um trailer novo de GTA 6 CHEIO de gameplay 🔥🎮
+
+🔫 Tiroteio no meio da rua
+🏋️‍♀️ Lucia puxando ferro na academia
+🏍️ Trilha de moto no mato
+🏁 Corrida de rua com cronômetro
+🌃 Rolê de carro à noite em Vice City
+🪂 Salto de paraquedas sobre a cidade
+
+Qual você vai fazer primeiro? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Trailer oficial "PlayStation 5 Features": Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #Trailer #PS5
+
+## DIA1 — 7 coisas pra fazer no dia 1
+7 coisas pra fazer no PRIMEIRO DIA de GTA 6 🌴🎮
+
+1️⃣ Ver o pôr do sol de Vice City
+2️⃣ Pegar uma praia
+3️⃣ Dar um rolê de carro à noite
+4️⃣ Pescar de lancha com os amigos
+5️⃣ Entrar no pântano de Grassrivers
+6️⃣ Fazer uma trilha de moto
+7️⃣ Pular de paraquedas sobre Vice City
+
+Qual você faz primeiro? Comenta aí 👇
+
+🎮 HOJE É O DIA! GTA 6 já está disponível no PS5 e Xbox Series X|S
+🎥 Gameplay oficial: Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Dia1 #PS5

@@ -1,0 +1,61 @@
+{
+ "src": "/root/feat_dl/ft.webm",
+ "music": "/root/musica/m06_traplatino.wav",
+ "out": "/root/cards/FEAT.mp4",
+ "credit": "Trailer oficial: Rockstar Games / PlayStation",
+ "segs": [
+  [
+   3.0,
+   1.8,
+   "GAMEPLAY NOVO!",
+   "A PlayStation soltou um trailer novo de GTA seis, cheio de gameplay. Olha só."
+  ],
+  [
+   8.2,
+   2.0,
+   "TIROTEIO NA RUA",
+   "Tiroteio no meio da rua."
+  ],
+  [
+   12.2,
+   1.8,
+   "ACADEMIA",
+   "A Lúcia puxando ferro na academia."
+  ],
+  [
+   17.1,
+   1.8,
+   "TRILHA DE MOTO",
+   "Trilha de moto no meio do mato."
+  ],
+  [
+   26.1,
+   2.0,
+   "CORRIDA DE RUA",
+   "Corrida com cronômetro na tela."
+  ],
+  [
+   19.3,
+   1.8,
+   "VICE CITY À NOITE",
+   "Rolê de carro à noite."
+  ],
+  [
+   42.9,
+   0.8,
+   "TROCA DE TIRO",
+   "Troca de tiro no corredor."
+  ],
+  [
+   44.0,
+   1.5,
+   "PARAQUEDAS!",
+   "E salto de paraquedas sobre Vice City!"
+  ]
+ ],
+ "end": [
+  "QUAL VOCÊ",
+  "FAZ PRIMEIRO?",
+  "Qual você vai fazer primeiro? Comenta aí!"
+ ]
+}

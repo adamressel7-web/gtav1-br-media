@@ -1,7 +1,27 @@
-{"music":"/root/musica/m03_reggaeton.wav","bg":"/root/rg/g/31.jpg","credit":"Imagens oficiais: Rockstar Games",
-"slides":[
-{"text":"O mundo **acabando** e eu só pensando no ==dia 19==","img":"/root/rg/g/31.jpg"},
-{"text":"**Microsoft fora do ar**: Outlook e Teams caíram em mais de ==70 países==.","img":"/root/rg/g/18.jpg"},
-{"text":"**Super El Niño** chegando, e pode ser um dos ==mais fortes da história==.","img":"/root/rr/img/Ambrosia_04*"},
-{"text":"O **CEO da Nvidia** deixou o cargo nesta semana.\nE eu? Só pensando em ==19/11, Vice City==.","img":"/root/rg/g/24.jpg"},
-{"text":"Alguém mais assim? **Marca** quem tá igual"}]}
+{
+ "music": "/root/musica/m03_reggaeton.wav",
+ "bg": "/root/rg/g/31.jpg",
+ "credit": "Imagens oficiais: Rockstar Games",
+ "slides": [
+  {
+   "text": "O mundo **acabando** e eu só pensando no ==dia 19==",
+   "img": "/root/rg/g/31.jpg"
+  },
+  {
+   "text": "**Microsoft fora do ar**: Outlook e Teams caíram em mais de ==70 países==.",
+   "img": "/root/rg/g/18.jpg"
+  },
+  {
+   "text": "**Super El Niño** chegando, e pode ser um dos ==mais fortes da história==.",
+   "img": "/root/rr/img/Ambrosia_04*"
+  },
+  {
+   "text": "O **CEO da Nvidia** deixou o cargo nesta semana.\nE eu? Só pensando em ==19/11, Vice City==.",
+   "img": "/root/rg/g/24.jpg"
+  },
+  {
+   "text": "Alguém mais assim? **Marca** quem tá igual"
+  }
+ ],
+ "narrate": true
+}

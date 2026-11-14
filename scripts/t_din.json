@@ -1,9 +1,35 @@
-{"music":"/root/musica/m02_miamibass.wav","bg":"/root/rg/hi/1106.png","slides":[
-{"text":"==SEGUNDO AS PRÉVIAS==\n**5 regras do dinheiro** que vão doer em GTA 6","img":"/root/rg/g/30.jpg"},
-{"text":"**1.** Morreu ou foi preso? O dinheiro que você ==carrega some==.","img":"/root/rg/g/19.jpg"},
-{"text":"**2.** Nada de banco pelo celular: depósito só no ==caixa eletrônico==, numa conta conjunta.","img":"/root/rg/g/22.jpg"},
-{"text":"**3.** Algumas missões da história só liberam se você tiver um ==valor mínimo== no bolso.","img":"/root/rg/g/20.jpg"},
-{"text":"**4.** Joias, dinheiro marcado e contrabando ==não dá pra gastar==. Tem que vender pra um receptador.","img":"/root/rg/g/52.jpg"},
-{"text":"**5.** A bolsa define quanto você leva do roubo, mas o ==porta-malas== é o limite.","img":"/root/rg/g/57.jpg"},
-{"text":"Qual dessas vai **doer mais** em você?\nComenta o número"}],
-"credit":"Fonte: prévias da imprensa (via GTABase) | Imagens: Rockstar Games"}
+{
+ "music": "/root/musica/m02_miamibass.wav",
+ "bg": "/root/rg/hi/1106.png",
+ "slides": [
+  {
+   "text": "==SEGUNDO AS PRÉVIAS==\n**5 regras do dinheiro** que vão doer em GTA 6",
+   "img": "/root/rg/g/30.jpg"
+  },
+  {
+   "text": "**1.** Morreu ou foi preso? O dinheiro que você ==carrega some==.",
+   "img": "/root/rg/g/19.jpg"
+  },
+  {
+   "text": "**2.** Nada de banco pelo celular: depósito só no ==caixa eletrônico==, numa conta conjunta.",
+   "img": "/root/rg/g/22.jpg"
+  },
+  {
+   "text": "**3.** Algumas missões da história só liberam se você tiver um ==valor mínimo== no bolso.",
+   "img": "/root/rg/g/20.jpg"
+  },
+  {
+   "text": "**4.** Joias, dinheiro marcado e contrabando ==não dá pra gastar==. Tem que vender pra um receptador.",
+   "img": "/root/rg/g/52.jpg"
+  },
+  {
+   "text": "**5.** A bolsa define quanto você leva do roubo, mas o ==porta-malas== é o limite.",
+   "img": "/root/rg/g/57.jpg"
+  },
+  {
+   "text": "Qual dessas vai **doer mais** em você?\nComenta o número"
+  }
+ ],
+ "credit": "Fonte: prévias da imprensa (via GTABase) | Imagens: Rockstar Games",
+ "narrate": true
+}

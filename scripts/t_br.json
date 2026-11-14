@@ -1,7 +1,28 @@
-{"music":"/root/musica/m04_funk.wav","bg":"/root/rr/img/Vice_City_03*","credit":"Imagens oficiais: Rockstar Games",
-"slides":[
-{"text":"==GTA 6== invadiu o **Brasil** — e o mundo inteiro também","img":"/root/rg/g/39.jpg","fx":0.45},
-{"text":"No dia 7/11 passou **comercial de GTA 6 na Globo**, no meio da transmissão da ==Fórmula 1==.","img":"/root/rr/img/Vice_City_05*"},
-{"text":"No metrô de **São Paulo**, estações da ==Linha 4 Amarela== estão adesivadas com GTA 6.","img":"/root/rr/img/Vice_City_09*"},
-{"text":"Lá fora tem telão na **Times Square**, carros de GTA em **Miami** e uma estação de metrô inteira adesivada em ==Singapura==.","img":"/root/rg/g/47.jpg"},
-{"text":"E aí, você viu GTA 6 na **sua cidade**? Comenta ==onde=="}]}
+{
+ "music": "/root/musica/m04_funk.wav",
+ "bg": "/root/rr/img/Vice_City_03*",
+ "credit": "Imagens oficiais: Rockstar Games",
+ "slides": [
+  {
+   "text": "==GTA 6== invadiu o **Brasil** — e o mundo inteiro também",
+   "img": "/root/rg/g/39.jpg",
+   "fx": 0.45
+  },
+  {
+   "text": "No dia 7/11 passou **comercial de GTA 6 na Globo**, no meio da transmissão da ==Fórmula 1==.",
+   "img": "/root/rr/img/Vice_City_05*"
+  },
+  {
+   "text": "No metrô de **São Paulo**, estações da ==Linha 4 Amarela== estão adesivadas com GTA 6.",
+   "img": "/root/rr/img/Vice_City_09*"
+  },
+  {
+   "text": "Lá fora tem telão na **Times Square**, carros de GTA em **Miami** e uma estação de metrô inteira adesivada em ==Singapura==.",
+   "img": "/root/rg/g/47.jpg"
+  },
+  {
+   "text": "E aí, você viu GTA 6 na **sua cidade**? Comenta ==onde=="
+  }
+ ],
+ "narrate": true
+}

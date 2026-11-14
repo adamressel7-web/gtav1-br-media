@@ -1,6 +1,24 @@
-{"music":"/root/musica/m02_miamibass.wav","bg":"/root/rg/hi/1570.png","credit":"Imagens oficiais: Rockstar Games",
-"slides":[
-{"text":"==GTA 6== já tem **atualização** — e o jogo nem lançou ainda 😳","img":"/root/rr/img/Vice_City_09*"},
-{"text":"A versão **1.002** começou a chegar hoje (13/11) no PS5 e no Xbox Series.\nTem cerca de **1 GB** e é ==obrigatória== pra jogar no dia 19.","img":"/root/rg/hi/1570.png","fx":0.55},
-{"text":"O que mudou? A Rockstar ainda ==não divulgou== as notas.\nE o total recomendado no PS5 é de **212 GB**.","img":"/root/rr/img/Leonida_Keys_01*"},
-{"text":"Já baixou a sua? Comenta ==SIM== ou ==NÃO== 👇"}]}
+{
+ "music": "/root/musica/m02_miamibass.wav",
+ "bg": "/root/rg/hi/1570.png",
+ "credit": "Imagens oficiais: Rockstar Games",
+ "slides": [
+  {
+   "text": "==GTA 6== já tem **atualização** — e o jogo nem lançou ainda 😳",
+   "img": "/root/rr/img/Vice_City_09*"
+  },
+  {
+   "text": "A versão **1.002** começou a chegar em 13/11 no PS5 e no Xbox Series.\nTem cerca de **1 GB** e é ==obrigatória== pra jogar no dia 19.",
+   "img": "/root/rg/hi/1570.png",
+   "fx": 0.55
+  },
+  {
+   "text": "O que mudou? A Rockstar ainda ==não divulgou== as notas.\nE o total recomendado no PS5 é de **212 GB**.",
+   "img": "/root/rr/img/Leonida_Keys_01*"
+  },
+  {
+   "text": "Já baixou a sua? Comenta ==SIM== ou ==NÃO== 👇"
+  }
+ ],
+ "narrate": true
+}

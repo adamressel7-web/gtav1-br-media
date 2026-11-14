@@ -1,6 +1,25 @@
-{"music":"/root/musica/m00_synthwave2.wav","bg":"/root/rr/img/Vice_City_08*","credit":"Imagens oficiais: Rockstar Games",
-"slides":[
-{"text":"==GTA 6== já quebrou recorde — e o jogo **nem lançou** ainda","img":"/root/rr/img/Vice_City_08*"},
-{"text":"Mais de **US$ 1 bilhão** em pré-venda, segundo a ==Sensor Tower==.\nSão mais de **10 milhões de cópias** vendidas antes do lançamento.","img":"/root/rr/img/Vice_City_02*","fx":0.55},
-{"text":"**75%** dessa receita vem do ==PlayStation==.\nE a Newzoo prevê **51 milhões** de cópias só na 1ª semana.","img":"/root/rr/img/Leonida_Keys_05*","fx":0.45},
-{"text":"São estimativas — os números oficiais saem depois do dia 19.\nVocê já comprou? Comenta ==SIM== ou ==NÃO=="}]}
+{
+ "music": "/root/musica/m00_synthwave2.wav",
+ "bg": "/root/rr/img/Vice_City_08*",
+ "credit": "Imagens oficiais: Rockstar Games",
+ "slides": [
+  {
+   "text": "==GTA 6== já quebrou recorde — e o jogo **nem lançou** ainda",
+   "img": "/root/rr/img/Vice_City_08*"
+  },
+  {
+   "text": "Mais de **US$ 1 bilhão** em pré-venda, segundo a ==Sensor Tower==.\nSão mais de **10 milhões de cópias** vendidas antes do lançamento.",
+   "img": "/root/rr/img/Vice_City_02*",
+   "fx": 0.55
+  },
+  {
+   "text": "**75%** dessa receita vem do ==PlayStation==.\nE a Newzoo prevê **51 milhões** de cópias só na 1ª semana.",
+   "img": "/root/rr/img/Leonida_Keys_05*",
+   "fx": 0.45
+  },
+  {
+   "text": "São estimativas — os números oficiais saem depois do dia 19.\nVocê já comprou? Comenta ==SIM== ou ==NÃO=="
+  }
+ ],
+ "narrate": true
+}

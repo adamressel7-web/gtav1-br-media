@@ -1,7 +1,23 @@
-{"music":"/root/musica/m05_phonk.wav","bg":"/root/rg/hi/1550.png",
-"slides":[
-{"text":"==BOATO==\n**6 estrelas** em GTA 6: a polícia vai te caçar no **mapa inteiro**?","img":"/root/rg/g/30.jpg"},
-{"text":"**O que é oficial:** os trailers mostram muita perseguição policial em Leonida.\nO sistema de procurado ==ainda não foi detalhado== pela Rockstar.","img":"/root/rg/hi/1546.png"},
-{"text":"**O que circula:** no nível máximo, não teria lugar seguro. Nem em **Vice City**, nem nas **Keys**, nem em **Grassrivers**.","img":"/root/rr/img/Vice_City_03*"},
-{"text":"E aí, você aguentaria **quanto tempo** com ==6 estrelas==?\nComenta aí"}],
-"credit":"Imagens oficiais: Rockstar Games"}
+{
+ "music": "/root/musica/m05_phonk.wav",
+ "bg": "/root/rg/hi/1550.png",
+ "slides": [
+  {
+   "text": "==BOATO==\n**6 estrelas** em GTA 6: a polícia vai te caçar no **mapa inteiro**?",
+   "img": "/root/rg/g/30.jpg"
+  },
+  {
+   "text": "**O que é oficial:** os trailers mostram muita perseguição policial em Leonida.\nO sistema de procurado ==ainda não foi detalhado== pela Rockstar.",
+   "img": "/root/rg/hi/1546.png"
+  },
+  {
+   "text": "**O que circula:** no nível máximo, não teria lugar seguro. Nem em **Vice City**, nem nas **Keys**, nem em **Grassrivers**.",
+   "img": "/root/rr/img/Vice_City_03*"
+  },
+  {
+   "text": "E aí, você aguentaria **quanto tempo** com ==6 estrelas==?\nComenta aí"
+  }
+ ],
+ "credit": "Imagens oficiais: Rockstar Games",
+ "narrate": true
+}

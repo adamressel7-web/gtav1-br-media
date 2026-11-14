@@ -1,6 +1,25 @@
-{"music":"/root/musica/m06_traplatino.wav","bg":"/root/rg/g/37.jpg","credit":"Imagens oficiais: Rockstar Games",
-"slides":[
-{"text":"**TEORIA:** a ==Lucia== é policial infiltrada?","img":"/root/rg/g/39.jpg","fx":0.45},
-{"text":"O site oficial diz que ela saiu da prisão por ==pura sorte==.\nFãs desconfiam que, na verdade, foi um **acordo com a polícia**.","img":"/root/rg/g/30.jpg"},
-{"text":"Na teoria, ela usaria o **Jason** de disfarce... ou acabaria ==se apaixonando==.","img":"/root/rg/g/38.jpg","fx":0.45},
-{"text":"A Rockstar ==nunca confirmou== nada disso — é só teoria de fã.\nVocê acredita? Comenta **SIM** ou **NÃO**"}]}
+{
+ "music": "/root/musica/m06_traplatino.wav",
+ "bg": "/root/rg/g/37.jpg",
+ "credit": "Imagens oficiais: Rockstar Games",
+ "slides": [
+  {
+   "text": "**TEORIA:** a ==Lucia== é policial infiltrada?",
+   "img": "/root/rg/g/39.jpg",
+   "fx": 0.45
+  },
+  {
+   "text": "O site oficial diz que ela saiu da prisão por ==pura sorte==.\nFãs desconfiam que, na verdade, foi um **acordo com a polícia**.",
+   "img": "/root/rg/g/30.jpg"
+  },
+  {
+   "text": "Na teoria, ela usaria o **Jason** de disfarce... ou acabaria ==se apaixonando==.",
+   "img": "/root/rg/g/38.jpg",
+   "fx": 0.45
+  },
+  {
+   "text": "A Rockstar ==nunca confirmou== nada disso — é só teoria de fã.\nVocê acredita? Comenta **SIM** ou **NÃO**"
+  }
+ ],
+ "narrate": true
+}

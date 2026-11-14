@@ -1,9 +1,35 @@
-{"music":"/root/musica/m03_reggaeton.wav","bg":"/root/rg/hi/1114.png","slides":[
-{"text":"**Coisas que nenhum GTA deixou fazer**\nE GTA 6 vai deixar ==(segundo as prévias)==","img":"/root/rg/g/35.jpg"},
-{"text":"**Seu corpo muda:** comeu demais, engorda. Foi pra academia, ganha ==músculo==.","img":"/root/rg/g/23.jpg"},
-{"text":"**Separar o casal na fuga:** a polícia divide a atenção e você perde ==1 estrela==.","img":"/root/rg/g/38.jpg"},
-{"text":"**A polícia lembra de você:** roupa, arma e carro do crime ficam no ==perfil policial==.","img":"/root/rg/g/40.jpg"},
-{"text":"**Acabou o arsenal infinito:** só ==2 pistolas e 2 rifles== no corpo. O resto vai no porta-malas.","img":"/root/rg/g/51.jpg"},
-{"text":"**Carro por app:** o ==Scooter Bros== traz seu carro até você.","img":"/root/rg/g/47.jpg"},
-{"text":"Qual você vai testar **primeiro**?\nComenta aí"}],
-"credit":"Fonte: prévias da imprensa (via GTABase) | Imagens: Rockstar Games"}
+{
+ "music": "/root/musica/m03_reggaeton.wav",
+ "bg": "/root/rg/hi/1114.png",
+ "slides": [
+  {
+   "text": "**Coisas que nenhum GTA deixou fazer**\nE GTA 6 vai deixar ==(segundo as prévias)==",
+   "img": "/root/rg/g/35.jpg"
+  },
+  {
+   "text": "**Seu corpo muda:** comeu demais, engorda. Foi pra academia, ganha ==músculo==.",
+   "img": "/root/rg/g/23.jpg"
+  },
+  {
+   "text": "**Separar o casal na fuga:** a polícia divide a atenção e você perde ==1 estrela==.",
+   "img": "/root/rg/g/38.jpg"
+  },
+  {
+   "text": "**A polícia lembra de você:** roupa, arma e carro do crime ficam no ==perfil policial==.",
+   "img": "/root/rg/g/40.jpg"
+  },
+  {
+   "text": "**Acabou o arsenal infinito:** só ==2 pistolas e 2 rifles== no corpo. O resto vai no porta-malas.",
+   "img": "/root/rg/g/51.jpg"
+  },
+  {
+   "text": "**Carro por app:** o ==Scooter Bros== traz seu carro até você.",
+   "img": "/root/rg/g/47.jpg"
+  },
+  {
+   "text": "Qual você vai testar **primeiro**?\nComenta aí"
+  }
+ ],
+ "credit": "Fonte: prévias da imprensa (via GTABase) | Imagens: Rockstar Games",
+ "narrate": true
+}

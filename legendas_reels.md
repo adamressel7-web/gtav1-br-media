@@ -993,3 +993,15 @@ E aí: PS5 ou Xbox? Comenta aí 👇
 📅 GTA 6 chega em 19/11
 Fontes: Rockstar Newswire e Xbox Wire (10/11) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #PS5 #PS5Pro #XboxSeriesX #Xbox
+
+## RG2 — REAL ou GTA 6? (vídeo)
+REAL ou GTA 6? 🤔🌴 Vê se você acerta as 6!
+
+Metade é Miami de verdade, metade é gameplay oficial de GTA 6. Para no vídeo e chuta antes da resposta 👀
+
+Quantas você acertou? Comenta aí 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
+🎥 Gameplay: Rockstar Games
+🎥 Miami: "Miami DJI Mini 4 Pro Cinematic 4K (60FPS)" por The Nomad With The Drone (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Miami #RealOuGTA6 #PS5

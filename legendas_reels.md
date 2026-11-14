@@ -569,15 +569,16 @@ Comenta de onde você vai jogar no dia 19 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
-## D19 — Coisa nº 19
-Coisas que dá pra fazer em GTA 6, nº 19: entrar no apê da Lucia 💗
+## D19 — Último fim de semana
+O ÚLTIMO FIM DE SEMANA SEM GTA 6 🥹⏳
 
-Jason ou Lucia: com quem você vai jogar mais? Comenta aí 👇
+Faltam 5 dias. Vice City tá te esperando. 🌴🔥
 
-📅 Lançamento: 19/11 no PS5 e Xbox Series X|S
+Quem mais tá contando as horas? Comenta 👇
+
+📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 🎥 Gameplay oficial: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
-
 ## D20 — Coisa nº 20
 Coisas que dá pra fazer em GTA 6, nº 20: invadir um escritório à noite 🔦
 

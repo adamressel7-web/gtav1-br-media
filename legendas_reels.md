@@ -893,3 +893,16 @@ Qual desses erros você ia cometer? Comenta aí 👇
 📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
 Fontes: Rockstar Games e prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Dicas #Gameplay #PS5
+
+## ESPERA — 13 anos de espera
+13 anos de espera. Todos nós envelhecemos. 🥲
+
+📀 Setembro de 2013: GTA V chega ao PS3 e ao Xbox 360
+🎮 Ele atravessou três gerações de console: PS3, PS4 e PS5
+🎬 Dezembro de 2023: sai o primeiro trailer de GTA 6
+⏳ Dois adiamentos depois... 19 de novembro de 2026
+
+Quantos anos você tinha quando jogou GTA V pela primeira vez? Comenta aí 👇
+
+Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTAV #GTA6Brasil #Nostalgia #ViceCity #LosSantos #PS5

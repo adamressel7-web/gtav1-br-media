@@ -4,32 +4,39 @@
  "slides": [
   {
    "text": "**No dia 19, qual jogador você vai ser?**\nComenta o número",
-   "img": "/root/rg/g/46.jpg"
+   "img": "/root/rg/g/46.jpg",
+   "say": "No dia dezenove, qual jogador você vai ser?"
   },
   {
    "text": "==1== **O da história**\nIgnora tudo e só segue a missão.",
-   "img": "/root/rg/g/32.jpg"
+   "img": "/root/rg/g/32.jpg",
+   "say": "Um: o da história. Só segue a missão."
   },
   {
    "text": "==2== **O mete o louco**\n5 minutos de jogo e a polícia inteira já tá atrás.",
-   "img": "/root/rg/g/24.jpg"
+   "img": "/root/rg/g/24.jpg",
+   "say": "Dois: o mete o louco. Cinco minutos e a polícia inteira atrás."
   },
   {
    "text": "==3== **O juntador**\nCarro, roupa, dinheiro... guarda tudo e não gasta nada.",
-   "img": "/root/rg/g/59.jpg"
+   "img": "/root/rg/g/59.jpg",
+   "say": "Três: o juntador. Guarda tudo e não gasta nada."
   },
   {
    "text": "==4== **O turista**\nPassa a primeira hora só olhando o pôr do sol de Leonida.",
-   "img": "/root/rg/g/31.jpg"
+   "img": "/root/rg/g/31.jpg",
+   "say": "Quatro: o turista. Uma hora só olhando o pôr do sol."
   },
   {
    "text": "==5== **O da academia**\nDeixa o Jason ==marombado== antes da primeira missão.",
-   "img": "/root/rg/g/23.jpg"
+   "img": "/root/rg/g/23.jpg",
+   "say": "Cinco: o da academia. Jason marombado antes da primeira missão."
   },
   {
-   "text": "Comenta o número\nE ==marca o amigo== que é o 2"
+   "text": "Comenta o número\nE ==marca o amigo== que é o 2",
+   "say": "Comenta o número e marca o amigo que é o dois!"
   }
  ],
  "credit": "Imagens oficiais: Rockstar Games",
- "narrate": true
+ "rate": "+12%"
 }

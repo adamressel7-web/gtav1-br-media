@@ -5,23 +5,28 @@
  "slides": [
   {
    "text": "O mundo **acabando** e eu só pensando no ==dia 19==",
-   "img": "/root/rg/g/31.jpg"
+   "img": "/root/rg/g/31.jpg",
+   "say": "O mundo acabando… e eu só pensando no dia dezenove."
   },
   {
    "text": "**Microsoft fora do ar**: Outlook e Teams caíram em mais de ==70 países==.",
-   "img": "/root/rg/g/18.jpg"
+   "img": "/root/rg/g/18.jpg",
+   "say": "Microsoft fora do ar em mais de setenta países."
   },
   {
    "text": "**Super El Niño** chegando, e pode ser um dos ==mais fortes da história==.",
-   "img": "/root/rr/img/Ambrosia_04*"
+   "img": "/root/rr/img/Ambrosia_04*",
+   "say": "Super El Niño chegando, um dos mais fortes da história."
   },
   {
    "text": "O **CEO da Nvidia** deixou o cargo nesta semana.\nE eu? Só pensando em ==19/11, Vice City==.",
-   "img": "/root/rg/g/24.jpg"
+   "img": "/root/rg/g/24.jpg",
+   "say": "Até o CEO da Nvidia saiu do cargo. E eu? Só pensando em Váice Síti."
   },
   {
-   "text": "Alguém mais assim? **Marca** quem tá igual"
+   "text": "Alguém mais assim? **Marca** quem tá igual",
+   "say": "Alguém mais assim? Marca quem tá igual!"
   }
  ],
- "narrate": true
+ "rate": "+12%"
 }

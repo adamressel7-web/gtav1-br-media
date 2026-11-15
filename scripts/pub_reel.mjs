@@ -1,6 +1,7 @@
 // node pub_reel.mjs <mp4> <capa.jpg> "<key>"  (env: INSTAGRAM_ACCESS_TOKEN)
 import fs from "fs";
-const [mp4, capa, key] = process.argv.slice(2);
+import path from "path";
+const [mp4p, capap, key] = process.argv.slice(2); const mp4 = path.basename(mp4p), capa = path.basename(capap);
 const T = process.env.INSTAGRAM_ACCESS_TOKEN;
 if (!T) throw new Error("INSTAGRAM_ACCESS_TOKEN ausente");
 const BASE = "https://raw.githubusercontent.com/adamressel7-web/gtav1-br-media/main/reels/";

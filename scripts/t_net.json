@@ -5,23 +5,28 @@
  "slides": [
   {
    "text": "==GTA 6== quebrou a **internet** — e o jogo nem lançou ainda",
-   "img": "/root/rr/img/Vice_City_08*"
+   "img": "/root/rr/img/Vice_City_08*",
+   "say": "GTA 6 quebrou a internet, e nem lançou ainda!"
   },
   {
    "text": "Quando o pré-download liberou, a **DE-CIX** (maior central de internet da Europa) bateu recorde: pico de ==33 terabits por segundo==.",
-   "img": "/root/rr/img/Leonida_Keys_01*"
+   "img": "/root/rr/img/Leonida_Keys_01*",
+   "say": "O pré-download fez a maior central de internet da Europa bater recorde."
   },
   {
    "text": "Na Alemanha, o tráfego de PlayStation e Xbox ficou até ==10x maior== que numa noite normal.",
-   "img": "/root/rg/g/19.jpg"
+   "img": "/root/rg/g/19.jpg",
+   "say": "Na Alemanha, o tráfego dos consoles ficou dez vezes maior."
   },
   {
    "text": "Nos EUA, uma operadora deu **upgrade grátis de 1 Gbps** pra galera baixar os ==212 GB==. (Não vale pro Brasil...)",
-   "img": "/root/rg/g/48.jpg"
+   "img": "/root/rg/g/48.jpg",
+   "say": "Nos Estados Unidos, operadora deu internet grátis pra baixar os duzentos e doze gigas."
   },
   {
-   "text": "Quanto tempo **demorou** o seu pré-download? Comenta aí"
+   "text": "Quanto tempo **demorou** o seu pré-download? Comenta aí",
+   "say": "Quanto tempo demorou o seu? Comenta aí!"
   }
  ],
- "narrate": true
+ "rate": "+12%"
 }

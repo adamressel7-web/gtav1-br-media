@@ -4,20 +4,24 @@
  "slides": [
   {
    "text": "==BOATO==\n**6 estrelas** em GTA 6: a polícia vai te caçar no **mapa inteiro**?",
-   "img": "/root/rg/g/30.jpg"
+   "img": "/root/rg/g/30.jpg",
+   "say": "Boato: com seis estrelas, a polícia te caça no mapa inteiro?"
   },
   {
    "text": "**O que é oficial:** os trailers mostram muita perseguição policial em Leonida.\nO sistema de procurado ==ainda não foi detalhado== pela Rockstar.",
-   "img": "/root/rg/hi/1546.png"
+   "img": "/root/rg/hi/1546.png",
+   "say": "Os trailers mostram muita perseguição, mas a Rockstar não detalhou o sistema."
   },
   {
    "text": "**O que circula:** no nível máximo, não teria lugar seguro. Nem em **Vice City**, nem nas **Keys**, nem em **Grassrivers**.",
-   "img": "/root/rr/img/Vice_City_03*"
+   "img": "/root/rr/img/Vice_City_03*",
+   "say": "Dizem que no nível máximo não tem lugar seguro."
   },
   {
-   "text": "E aí, você aguentaria **quanto tempo** com ==6 estrelas==?\nComenta aí"
+   "text": "E aí, você aguentaria **quanto tempo** com ==6 estrelas==?\nComenta aí",
+   "say": "Você aguentaria quanto tempo? Comenta aí!"
   }
  ],
  "credit": "Imagens oficiais: Rockstar Games",
- "narrate": true
+ "rate": "+12%"
 }

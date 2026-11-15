@@ -4,32 +4,39 @@
  "slides": [
   {
    "text": "**Coisas que nenhum GTA deixou fazer**\nE GTA 6 vai deixar ==(segundo as prévias)==",
-   "img": "/root/rg/g/35.jpg"
+   "img": "/root/rg/g/35.jpg",
+   "say": "Coisas que nenhum GTA deixou fazer… e o seis vai deixar!"
   },
   {
    "text": "**Seu corpo muda:** comeu demais, engorda. Foi pra academia, ganha ==músculo==.",
-   "img": "/root/rg/g/23.jpg"
+   "img": "/root/rg/g/23.jpg",
+   "say": "Comeu demais, engorda. Foi pra academia, ganha músculo."
   },
   {
    "text": "**Separar o casal na fuga:** a polícia divide a atenção e você perde ==1 estrela==.",
-   "img": "/root/rg/g/38.jpg"
+   "img": "/root/rg/g/38.jpg",
+   "say": "Separou o casal na fuga? Perde uma estrela."
   },
   {
    "text": "**A polícia lembra de você:** roupa, arma e carro do crime ficam no ==perfil policial==.",
-   "img": "/root/rg/g/40.jpg"
+   "img": "/root/rg/g/40.jpg",
+   "say": "A polícia lembra da sua roupa, da arma e do carro."
   },
   {
    "text": "**Acabou o arsenal infinito:** só ==2 pistolas e 2 rifles== no corpo. O resto vai no porta-malas.",
-   "img": "/root/rg/g/51.jpg"
+   "img": "/root/rg/g/51.jpg",
+   "say": "Acabou o arsenal infinito: o resto vai no porta-malas."
   },
   {
    "text": "**Carro por app:** o ==Scooter Bros== traz seu carro até você.",
-   "img": "/root/rg/g/47.jpg"
+   "img": "/root/rg/g/47.jpg",
+   "say": "E o seu carro chega por aplicativo."
   },
   {
-   "text": "Qual você vai testar **primeiro**?\nComenta aí"
+   "text": "Qual você vai testar **primeiro**?\nComenta aí",
+   "say": "Qual você vai testar primeiro? Comenta aí!"
   }
  ],
  "credit": "Fonte: prévias da imprensa (via GTABase) | Imagens: Rockstar Games",
- "narrate": true
+ "rate": "+12%"
 }

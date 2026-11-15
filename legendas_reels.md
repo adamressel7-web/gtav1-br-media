@@ -1061,5 +1061,5 @@ GTA 6 🥹⏳
 
 Faltam 4 dias. Quem mais tá contando?
 
-🎥 Imagens oficiais: Rockstar Games / PlayStation
+🎥 Trailer de lançamento oficial: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida

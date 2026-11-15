@@ -1,8 +1,37 @@
-{"music":"/root/musica/m07_tropicalhouse.wav","bg":"/root/rg/hi/1554.png","narrate":true,"slides":[
-{"text":"==BOATO==\nEm GTA 6, sua garagem começaria com só **3 vagas**","img":"/root/rg/g/59.jpg"},
-{"text":"Ou seja: vai ter que escolher ==muito bem== o que guardar.","img":"/root/rg/g/47.jpg"},
-{"text":"Um **clássico** de rodão?","img":"/root/rg/g/57.jpg"},
-{"text":"Um **esportivo** dos anos 80?","img":"/root/rg/g/49.jpg"},
-{"text":"Ou um **off-road** pra rodar Leonida inteira?","img":"/root/rg/g/53.jpg"},
-{"text":"Quais seriam as ==suas 3==?\nComenta aí"}],
-"credit":"Boato | Imagens oficiais: Rockstar Games"}
+{
+ "music": "/root/musica/m07_tropicalhouse.wav",
+ "bg": "/root/rg/hi/1554.png",
+ "slides": [
+  {
+   "text": "==BOATO==\nEm GTA 6, sua garagem começaria com só **3 vagas**",
+   "img": "/root/rg/g/59.jpg",
+   "say": "Boato: sua garagem começa com só três vagas!"
+  },
+  {
+   "text": "Ou seja: vai ter que escolher ==muito bem== o que guardar.",
+   "img": "/root/rg/g/47.jpg",
+   "say": "Vai ter que escolher muito bem."
+  },
+  {
+   "text": "Um **clássico** de rodão?",
+   "img": "/root/rg/g/57.jpg",
+   "say": "Um clássico de rodão?"
+  },
+  {
+   "text": "Um **esportivo** dos anos 80?",
+   "img": "/root/rg/g/49.jpg",
+   "say": "Um esportivo dos anos oitenta?"
+  },
+  {
+   "text": "Ou um **off-road** pra rodar Leonida inteira?",
+   "img": "/root/rg/g/53.jpg",
+   "say": "Ou um off-road pra rodar Leonida inteira?"
+  },
+  {
+   "text": "Quais seriam as ==suas 3==?\nComenta aí",
+   "say": "Quais seriam as suas três? Comenta aí!"
+  }
+ ],
+ "credit": "Boato | Imagens oficiais: Rockstar Games",
+ "rate": "+12%"
+}

@@ -1055,3 +1055,11 @@ Qual você faz primeiro? Comenta aí 👇
 🎮 HOJE É O DIA! GTA 6 já está disponível no PS5 e Xbox Series X|S
 🎥 Gameplay oficial: Rockstar Games / PlayStation
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Dia1 #PS5
+
+## SAUD — GTA 6 (faltam 4 dias)
+GTA 6 🥹⏳
+
+Faltam 4 dias. Quem mais tá contando?
+
+🎥 Imagens oficiais: Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida

@@ -14,7 +14,7 @@ def tts(text, i):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", mp3, "-ac", "1", "-ar", "48000", wv], check=True)
     with wave.open(wv) as w: return np.frombuffer(w.readframes(w.getnframes()), np.int16).astype(np.float32) / 32768
 VO = [tts(s, i) if s else None for i, (_, _, _, s) in enumerate(SEG)]
-VO_END = tts(S["end"][2], 99)
+VO_END = tts(S["end"][2], 99) if S["end"][2] else np.zeros(int(48000 * 1.5), np.float32)
 VIS = [int(round(d * FPS)) for _, d, _, _ in SEG]
 DUR = [max(v, int(len(a) / 48000 * FPS) + 6) if a is not None else v for v, a in zip(VIS, VO)]
 ENDN = int(len(VO_END) / 48000 * FPS) + 30
@@ -43,7 +43,9 @@ def ctext(d, y, t, f, fill, sw=7, sf=(25, 0, 35)):
 def frame(n):
     if n >= sum(DUR):
         im = LAST.copy(); d = ImageDraw.Draw(im); e = n - sum(DUR)
-        ctext(d, 300, S["end"][0], F(PD, 130), "white"); ctext(d, 440, S["end"][1], F(PD, 110), (255, 64, 170))
+        ctext(d, 300, S["end"][0], F(PD, 130), "white"); s2 = 110
+        while d.textlength(S["end"][1], font=F(PD, s2)) > 1000: s2 -= 6
+        ctext(d, 440, S["end"][1], F(PD, s2), (255, 64, 170))
         t = "Comenta aí"; f = F(IB, 56); tw = d.textlength(t, font=f)
         d.rounded_rectangle(((W - tw) / 2 - 36, 1460, (W + tw) / 2 + 36, 1556), 48, fill=(255, 64, 170)); d.text(((W - tw) / 2, 1472), t, font=f, fill="white")
     else:

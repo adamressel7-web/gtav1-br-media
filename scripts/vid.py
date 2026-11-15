@@ -32,7 +32,9 @@ def seg_frames(t0, n, vis, src):
                           "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True, check=True).stdout
     a = np.frombuffer(raw, np.uint8).reshape(-1, H, W, 3)
     if len(a) < n: a = np.concatenate([a, np.repeat(a[-1:], n - len(a), 0)])
-    return a
+    a = a[:n]; fn = f"/root/cards/tmpclip_{len(os.listdir('/root/cards'))}_{t0}.raw"
+    mm = np.memmap(fn, np.uint8, "w+", shape=a.shape); mm[:] = a; mm.flush(); del raw, a
+    return np.memmap(fn, np.uint8, "r", shape=(n, H, W, 3))
 
 CLIPS = [seg_frames(t, n, v, s) for (t, _, _, _), n, v, s in zip(SEG, DUR, VIS, SRCS)]
 LAST = Image.fromarray(CLIPS[-1][-1])

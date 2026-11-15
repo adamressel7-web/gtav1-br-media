@@ -1077,3 +1077,18 @@ Você encarava esse assalto? Comenta aí 👇
 
 🎥 Gameplay oficial: Rockstar Games ("An Extended Look")
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #Assalto #PS5
+
+## DET — Detalhes escondidos no trailer de lançamento
+Detalhes que passaram batido no trailer de lançamento de GTA 6 🔍👀
+
+🌴 A placa de boas-vindas às Keys
+⚓ A Brian's Marina, com até telefone na placa
+🪖 O Jason de camiseta do Exército… e o trailer fala do passado militar dele
+🕸️ Lowrider com pintura de teia de aranha
+🦎 Uma iguana atravessando a rua
+✈️ Biplano soltando fumaça rosa em cima da praia
+
+Qual detalhe você não tinha visto? Comenta aí 👇
+
+🎥 Trailer de lançamento oficial: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Trailer #Detalhes #PS5

@@ -1064,14 +1064,14 @@ Faltam 4 dias. Quem mais tá contando?
 🎥 Trailer de lançamento oficial: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida
 
-## LOJA — Como roubar uma loja em GTA 6
-Como roubar uma loja em GTA 6 🏪🔫 (direto do gameplay oficial)
+## LOJA — Como é um assalto em GTA 6
+Assalto na loja em GTA 6 🏪🔫 (direto do gameplay oficial)
 
-1️⃣ Cobre o rosto
-2️⃣ Entra e rende quem tá no caixa
-3️⃣ Pega tudo que der
-4️⃣ Fica esperto: o caixa pode reagir… com espingarda!
-5️⃣ Foge pro carro, com o dono atirando atrás 😂
+🧣 A Lucia cobre o rosto antes de entrar
+🔫 Arma na mão e o caixa rendido
+💰 Vai pegando tudo que dá
+😳 Mas o caixa não deixa barato… sacou uma espingarda!
+🚗 É correr pro carro e sumir
 
 Você encarava esse assalto? Comenta aí 👇
 

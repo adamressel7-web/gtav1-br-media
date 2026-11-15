@@ -123,7 +123,7 @@ if any(s.get("say") for s in S["slides"]):
         if not s.get("say"): VO.append(None); continue
         h = hashlib.md5((voice + rate + s["say"]).encode()).hexdigest()[:12]; mp3 = f"/root/cards/vo/{h}.mp3"; wv = mp3[:-4] + ".wav"
         if not os.path.exists(wv):
-            subprocess.run(["edge-tts", "--voice", voice, f"--rate={rate}", "--text", s["say"], "--write-media", mp3], check=True)
+            subprocess.run(["edge-tts", "--voice", voice, f"--rate={rate}", "--text", spoken(s["say"]), "--write-media", mp3], check=True)
             subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", mp3, "-ac", "1", "-ar", "48000", wv], check=True)
         with wave.open(wv) as w: a = np.frombuffer(w.readframes(w.getnframes()), np.int16).astype(np.float32) / 32768
         VO.append(a); DUR[i] = max(int(FPS * (len(a) / 48000 + 0.9)), int(FPS * 2.5))

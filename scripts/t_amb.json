@@ -1,8 +1,37 @@
-{"music":"/root/musica/m05_phonk.wav","bg":"/root/rr/img/Ambrosia_04.0.2cefoguu-tt.jpg","narrate":true,"slides":[
-{"text":"Antes de jogar GTA 6, ==guarda esse nome==:\n**Ambrosia**","img":"/root/rr/img/Ambrosia_02*"},
-{"text":"Fica bem no **coração de Leonida**, longe das praias de Vice City.","img":"/root/rr/img/Ambrosia_04*"},
-{"text":"Quem dá emprego por lá é a refinaria de açúcar ==Allied Crystal==.","img":"/root/rr/img/Ambrosia_02*"},
-{"text":"E quem manda nas ruas são os motoqueiros da ==Chapter==.","img":"/root/rr/img/Ambrosia_01*"},
-{"text":"==TEORIA:== com fábrica, gangue e muito dinheiro sujo, fã aposta que vai sair **missão pesada** daqui.","img":"/root/rr/img/Ambrosia_03*"},
-{"text":"Você vai **trabalhar** com os motoqueiros ou **bater de frente**?\nComenta aí"}],
-"credit":"Fonte: site oficial de GTA VI | Imagens: Rockstar Games"}
+{
+ "music": "/root/musica/m05_phonk.wav",
+ "bg": "/root/rr/img/Ambrosia_04.0.2cefoguu-tt.jpg",
+ "slides": [
+  {
+   "text": "Antes de jogar GTA 6, ==guarda esse nome==:\n**Ambrosia**",
+   "img": "/root/rr/img/Ambrosia_02*",
+   "say": "Antes de jogar GTA 6, guarda esse nome: Ambrosia!"
+  },
+  {
+   "text": "Fica bem no **coração de Leonida**, longe das praias de Vice City.",
+   "img": "/root/rr/img/Ambrosia_04*",
+   "say": "Fica no coração de Leonida, longe da praia."
+  },
+  {
+   "text": "Quem dá emprego por lá é a refinaria de açúcar ==Allied Crystal==.",
+   "img": "/root/rr/img/Ambrosia_02*",
+   "say": "Quem dá emprego é a refinaria de açúcar."
+  },
+  {
+   "text": "E quem manda nas ruas são os motoqueiros da ==Chapter==.",
+   "img": "/root/rr/img/Ambrosia_01*",
+   "say": "E quem manda nas ruas são os motoqueiros."
+  },
+  {
+   "text": "==TEORIA:== com fábrica, gangue e muito dinheiro sujo, fã aposta que vai sair **missão pesada** daqui.",
+   "img": "/root/rr/img/Ambrosia_03*",
+   "say": "Fã aposta que vai sair missão pesada daqui."
+  },
+  {
+   "text": "Você vai **trabalhar** com os motoqueiros ou **bater de frente**?\nComenta aí",
+   "say": "Você vai trabalhar com os motoqueiros ou bater de frente?"
+  }
+ ],
+ "credit": "Fonte: site oficial de GTA VI | Imagens: Rockstar Games",
+ "rate": "+12%"
+}

@@ -6,20 +6,24 @@
   {
    "text": "**TEORIA:** a ==Lucia== é policial infiltrada?",
    "img": "/root/rg/g/39.jpg",
-   "fx": 0.45
+   "fx": 0.45,
+   "say": "Teoria: a Lúcia é policial infiltrada?"
   },
   {
    "text": "O site oficial diz que ela saiu da prisão por ==pura sorte==.\nFãs desconfiam que, na verdade, foi um **acordo com a polícia**.",
-   "img": "/root/rg/g/30.jpg"
+   "img": "/root/rg/g/30.jpg",
+   "say": "Ela saiu da prisão por sorte… ou foi um acordo com a polícia?"
   },
   {
    "text": "Na teoria, ela usaria o **Jason** de disfarce... ou acabaria ==se apaixonando==.",
    "img": "/root/rg/g/38.jpg",
-   "fx": 0.45
+   "fx": 0.45,
+   "say": "Ela usaria o Jason de disfarce, ou acabaria se apaixonando."
   },
   {
-   "text": "A Rockstar ==nunca confirmou== nada disso — é só teoria de fã.\nVocê acredita? Comenta **SIM** ou **NÃO**"
+   "text": "A Rockstar ==nunca confirmou== nada disso — é só teoria de fã.\nVocê acredita? Comenta **SIM** ou **NÃO**",
+   "say": "É só teoria de fã. Você acredita? Comenta sim ou não!"
   }
  ],
- "narrate": true
+ "rate": "+12%"
 }

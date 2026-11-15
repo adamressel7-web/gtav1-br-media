@@ -1,18 +1,18 @@
 {
- "src": "/root/ext/clips/robc.mp4",
+ "src": "/root/ext/clips/rob4k.mp4",
  "music": "/root/musica/m09_oldschool.wav",
  "out": "/root/cards/LOJA.mp4",
  "credit": "Gameplay oficial: Rockstar Games (An Extended Look)",
  "segs": [
   [
-   2.0,
+   3.0,
    2.0,
    "ASSALTO NA LOJA!",
    "Olha como é um assalto em GTA seis, direto do gameplay oficial."
   ],
   [
-   8.0,
-   1.6,
+   8.5,
+   1.4,
    "BANDANA NO ROSTO",
    "A Lúcia cobre o rosto antes de entrar."
   ],
@@ -29,26 +29,26 @@
    "Vai pegando tudo que dá."
   ],
   [
-   30.0,
+   30.5,
    3.0,
    "O CAIXA REAGE",
    "Mas o caixa não deixa barato."
   ],
   [
-   37.0,
-   2.0,
+   36.5,
+   1.5,
    "ESPINGARDA!",
    "Sacou uma espingarda!"
   ],
   [
    43.0,
-   2.5,
+   2.0,
    "FUGA",
    "É correr pro carro e sumir."
   ],
   [
    46.0,
-   2.5,
+   2.0,
    "",
    ""
   ]

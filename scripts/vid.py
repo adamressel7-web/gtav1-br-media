@@ -7,7 +7,7 @@ SRC = S["src"]
 PD = "/root/fonts/pricedown.ttf"; IB = "/usr/share/fonts/opentype/inter/Inter-Bold.otf"; IM = "/usr/share/fonts/opentype/inter/Inter-Medium.otf"
 F = lambda p, s: ImageFont.truetype(p, s)
 # (início, duração, texto na tela, narração)
-SEG = [tuple(x[:4]) for x in S["segs"]]; SRCS = [x[4] if len(x) > 4 else SRC for x in S["segs"]]
+SEG = [tuple(x[:4]) for x in S["segs"]]; SRCS = [x[4] if len(x) > 4 and x[4] else SRC for x in S["segs"]]; FXS = [x[5] if len(x) > 5 else 0.5 for x in S["segs"]]
 def tts(text, i):
     mp3 = f"/root/cards/vo/v_{hashlib.md5(text.encode()).hexdigest()[:10]}.mp3"; wv = mp3[:-4] + ".wav"
     subprocess.run(["edge-tts", "--voice", "pt-BR-AntonioNeural", "--rate=+12%", "--text", text, "--write-media", mp3], check=True)
@@ -22,12 +22,18 @@ TOTAL = sum(DUR) + ENDN
 STARTS = np.cumsum([0] + DUR[:-1])
 CREDIT = S["credit"]
 
-def seg_frames(t0, n, vis, src):
+def seg_frames(t0, n, vis, src, fx=0.5):
     vert = src.endswith(".mp4") and "1080,1920" in subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v", "-show_entries", "stream=width,height", "-of", "csv=p=0", src], capture_output=True, text=True).stdout
-    pre = max(0, t0 - 3); tr = ""
+    pre = 0.0 if src.endswith(".webm") else max(0, t0 - 3); tr = ""
     vf = (tr + f"split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=30:2,eq=brightness=-0.12[bg];"
           f"[b]scale=-2:900,crop={W}:900[fg];[bg][fg]overlay=0:(H-h)/2,setpts={n / vis:.4f}*PTS,fps={FPS}")
-    if vert: vf = tr + f"scale={W}:{H},setpts={n / vis:.4f}*PTS,fps={FPS}"
+    sw = int((subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v", "-show_entries", "stream=width", "-of", "csv=p=0", src], capture_output=True, text=True).stdout.strip() or "0").split(",")[0])
+    if sw >= 3000 and S.get("full", True):
+        vf = tr + f"scale=-2:{H}:flags=lanczos,crop={W}:{H}:(iw-{W})*{fx}:0,setpts={n / vis:.4f}*PTS,fps={FPS}"
+    elif not vert:
+        vf = (tr + f"split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=30:2,eq=brightness=-0.12[bg];"
+              f"[b]scale=-2:1200:flags=lanczos,crop={W}:1200,unsharp=5:5:0.6[fg];[bg][fg]overlay=0:(H-h)/2,setpts={n / vis:.4f}*PTS,fps={FPS}")
+    if vert: vf = tr + f"scale={W}:{H}:flags=lanczos,unsharp=5:5:0.4,setpts={n / vis:.4f}*PTS,fps={FPS}"
     raw = subprocess.run(["ffmpeg", "-v", "error", "-ss", str(pre), "-i", src, "-ss", f"{(t0 - pre) * n / vis:.3f}", "-frames:v", str(n), "-filter_complex", vf,
                           "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True, check=True).stdout
     a = np.frombuffer(raw, np.uint8).reshape(-1, H, W, 3)
@@ -36,7 +42,7 @@ def seg_frames(t0, n, vis, src):
     mm = np.memmap(fn, np.uint8, "w+", shape=a.shape); mm[:] = a; mm.flush(); del raw, a
     return np.memmap(fn, np.uint8, "r", shape=(n, H, W, 3))
 
-CLIPS = [seg_frames(t, n, v, s) for (t, _, _, _), n, v, s in zip(SEG, DUR, VIS, SRCS)]
+CLIPS = [seg_frames(t, n, v, s, f) for (t, _, _, _), n, v, s, f in zip(SEG, DUR, VIS, SRCS, FXS)]
 LAST = Image.fromarray(CLIPS[-1][-1])
 
 def ctext(d, y, t, f, fill, sw=7, sf=(25, 0, 35)):
@@ -85,7 +91,7 @@ if len(sys.argv) > 2:
     o.save("/root/cards/vid_prev.jpg"); print(TOTAL); sys.exit()
 audio("/root/cards/vid.wav")
 p = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-i", "/root/cards/vid.wav",
-                      "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "libx264", "-crf", "19", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
+                      "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "libx264", "-crf", "15", "-preset", "slow", "-maxrate", "16M", "-bufsize", "32M", "-profile:v", "high", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                       "-ar", "48000", "-movflags", "+faststart", "-shortest", S["out"]], stdin=subprocess.PIPE)
 for n in range(TOTAL): p.stdin.write(frame(n).convert("RGB").tobytes())
 p.stdin.close(); p.wait(); print("ok", TOTAL)

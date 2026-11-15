@@ -200,7 +200,7 @@ if __name__ == "__main__":
         o.save(out); print("frames", TOTAL); sys.exit()
     audio(out + ".wav")
     p = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                          "-i", out + ".wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "libx264", "-crf", "18", "-pix_fmt", "yuv420p",
+                          "-i", out + ".wav", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:v", "libx264", "-crf", "15", "-preset", "slow", "-maxrate", "16M", "-bufsize", "32M", "-profile:v", "high", "-pix_fmt", "yuv420p",
                           "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", "-shortest", out], stdin=subprocess.PIPE)
     for n in range(TOTAL): p.stdin.write(frame(n).tobytes())
     p.stdin.close(); p.wait(); print("ok", TOTAL)

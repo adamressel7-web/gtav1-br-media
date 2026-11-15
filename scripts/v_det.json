@@ -1,11 +1,77 @@
-{"src":"/root/launch_dl/lt.mp4","music":"/root/musica/m10_cinematic.wav","out":"/root/cards/DET.mp4",
-"credit":"Trailer de lançamento oficial: Rockstar Games",
-"segs":[[26.1,1.6,"DETALHES ESCONDIDOS","Detalhes que passaram batido no trailer de lançamento de GTA seis."],
-[3.0,1.6,"BEM-VINDO ÀS KEYS","A placa de boas-vindas às Keys, logo no começo."],
-[4.2,1.6,"BRIAN'S MARINA","A marina do Brian, com até telefone na placa."],
-[40.2,2.0,"CAMISETA DO EXÉRCITO","O Jason de camiseta do Exército. E o trailer fala do passado militar dele."],
-[18.2,1.5,"TEIA DE ARANHA","Lowrider com pintura de teia de aranha."],
-[20.4,1.2,"IGUANA NA RUA","Uma iguana atravessando a rua. Bem Flórida."],
-[55.2,1.4,"FUMAÇA ROSA","Biplano soltando fumaça rosa em cima da praia."],
-[66.5,1.8,"",""]],
-"end":["QUAL DETALHE","VOCÊ NÃO TINHA VISTO?","Qual detalhe você não tinha visto? Comenta aí!"]}
+{
+ "src": "/root/launch_dl/lt4k.webm",
+ "music": "/root/musica/m10_cinematic.wav",
+ "out": "/root/cards/DET.mp4",
+ "credit": "Trailer de lançamento oficial: Rockstar Games",
+ "segs": [
+  [
+   27.0,
+   1.4,
+   "DETALHES ESCONDIDOS",
+   "Detalhes que passaram batido no trailer de lançamento de GTA seis.",
+   "",
+   0.5
+  ],
+  [
+   3.5,
+   0.9,
+   "BEM-VINDO ÀS KEYS",
+   "A placa de boas-vindas às Keys, logo no começo.",
+   "",
+   0.4
+  ],
+  [
+   4.6,
+   1.4,
+   "BRIAN'S MARINA",
+   "A marina do Brian, com até telefone na placa.",
+   "",
+   0.45
+  ],
+  [
+   40.1,
+   1.2,
+   "CAMISETA DO EXÉRCITO",
+   "O Jason de camiseta do Exército. E o trailer fala do passado militar dele.",
+   "",
+   0.18
+  ],
+  [
+   18.6,
+   1.3,
+   "TEIA DE ARANHA",
+   "Lowrider com pintura de teia de aranha.",
+   "",
+   0.5
+  ],
+  [
+   20.6,
+   0.8,
+   "IGUANA NA RUA",
+   "Uma iguana atravessando a rua. Bem Flórida.",
+   "",
+   0.4
+  ],
+  [
+   55.1,
+   1.2,
+   "FUMAÇA ROSA",
+   "Biplano soltando fumaça rosa em cima da praia.",
+   "",
+   0.3
+  ],
+  [
+   66.6,
+   1.3,
+   "",
+   "",
+   "",
+   0.5
+  ]
+ ],
+ "end": [
+  "QUAL DETALHE",
+  "VOCÊ NÃO TINHA VISTO?",
+  "Qual detalhe você não tinha visto? Comenta aí!"
+ ]
+}

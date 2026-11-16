@@ -1142,3 +1142,9 @@ Você vai reparar nos NPCs? Comenta aí 👇
 
 Fonte: The New York Times (via GamesRadar+) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #NPC #Rockstar #PS5
+
+## GRANDE — Está chegando o grande dia
+FALTAM SÓ 2 DIAS PRO GRANDE DIA 🔥🤭
+
+🎥 Imagens oficiais: Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #PS5 #Rockstar

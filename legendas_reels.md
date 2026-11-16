@@ -848,21 +848,21 @@ Qual dessas vai doer mais em você? Comenta o número 👇
 Fonte: prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Gameplay #PS5
 
-## INED — Coisas que nenhum GTA deixou fazer
-Coisas que nenhum GTA deixou fazer… e GTA 6 vai deixar 🤯
+## INED — 7 coisas que quase ninguém percebeu
+7 coisas que a Rockstar já mostrou de GTA 6 e quase ninguém percebeu 👀🔥
 
-Segundo as prévias da imprensa:
-💪 Seu corpo muda: comeu demais, engorda; foi pra academia, ganha músculo
-🏃‍♀️🏃 Separar o casal na fuga divide a polícia e tira 1 estrela
-👮 A polícia lembra da roupa, da arma e do carro do crime
-🔫 Acabou o arsenal infinito: 2 pistolas e 2 rifles no corpo, o resto no porta-malas
-🛵 Carro por app: o Scooter Bros traz seu carro até você
+7️⃣ Seu corpo muda: come demais, engorda; vai pra academia, ganha músculo
+6️⃣ A Lucia aparece de tornozeleira eletrônica no 1º trailer: liberdade condicional
+5️⃣ Jason e Lucia agem juntos, e você troca entre os dois quando quiser
+4️⃣ A polícia lembra da sua roupa, da arma e do carro
+3️⃣ Separar o casal na fuga divide a polícia e tira 1 estrela
+2️⃣ O app Waink escaneia o carro antes do roubo
+1️⃣ Corrida de rua com cronômetro na tela
 
-Qual você vai testar primeiro? Comenta aí 👇
+Qual você não sabia? Comenta aí 👇 E segue aí: dia 19 tem tudo do lançamento!
 
-📅 GTA 6 chega em 19/11 no PS5 e Xbox Series X|S
-Fonte: prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Games
-#GTA6 #GTAVI #GTA6Brasil #ViceCity #Novidades #Gameplay #PS5
+Fontes: trailers oficiais, Rockstar e prévias da imprensa | Imagens oficiais: Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #Detalhes #Gameplay #PS5
 
 ## TIPO — Qual jogador você vai ser
 No dia 19, qual jogador você vai ser? 🎮
@@ -1092,3 +1092,14 @@ Qual detalhe você não tinha visto? Comenta aí 👇
 
 🎥 Trailer de lançamento oficial: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Trailer #Detalhes #PS5
+
+## PESSOA — 1ª ou 3ª pessoa?
+Você vai jogar GTA 6 em 1ª ou 3ª pessoa? 🎮👀
+
+Segundo a Rockstar, o jogo foi feito pensando na 3ª pessoa. Mas dá pra usar a 1ª pessoa dirigindo e mirando com algumas armas.
+Modo completo em 1ª pessoa? Não no lançamento. (O GTA V também só ganhou depois.)
+
+E você: 1 ou 3? Comenta aí 👇
+
+Fonte: Rob Nelson (Rockstar North) em prévia para criadores | Imagens oficiais: Rockstar Games / PlayStation
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #PrimeiraPessoa #PS5

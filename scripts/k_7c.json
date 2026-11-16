@@ -1,0 +1,84 @@
+{
+ "music": "/root/musica/m11_retrowave.wav",
+ "out": "/root/cards/SETE.mp4",
+ "credit": "Imagens oficiais: Rockstar Games / PlayStation",
+ "intro": {
+  "title": [
+   "7 COISAS QUE A",
+   "ROCKSTAR MOSTROU",
+   "E PASSARAM BATIDO"
+  ],
+  "say": "Sete coisas que a Rockstar já mostrou de GTA 6 e quase ninguém percebeu.",
+  "src": "/root/launch_dl/lt4k.webm",
+  "t": 4.6,
+  "d": 1.6,
+  "fx": 0.5
+ },
+ "items": [
+  {
+   "num": 7,
+   "tag": "O CORPO MUDA",
+   "say": "Seu corpo muda. Comeu demais, engorda. Foi pra academia, ganha músculo.",
+   "src": "/root/feat_dl/ft.webm",
+   "t": 12.6,
+   "d": 1.8
+  },
+  {
+   "num": 6,
+   "tag": "TORNOZELEIRA DA LUCIA",
+   "say": "No primeiro trailer, a Lúcia aparece de tornozeleira eletrônica. Ela tá em liberdade condicional.",
+   "src": "/root/launch_dl/lt4k.webm",
+   "t": 26.0,
+   "d": 1.4
+  },
+  {
+   "num": 5,
+   "tag": "PARCEIROS DE CRIME",
+   "say": "Jason e Lúcia agem juntos, e você troca entre os dois na hora que quiser.",
+   "src": "/root/feat_dl/ft.webm",
+   "t": 3.6,
+   "d": 1.3
+  },
+  {
+   "num": 4,
+   "tag": "A POLÍCIA LEMBRA",
+   "say": "A polícia lembra da sua roupa, da sua arma e do seu carro.",
+   "src": "/root/feat_dl/ft.webm",
+   "t": 8.2,
+   "d": 2.0
+  },
+  {
+   "num": 3,
+   "tag": "SEPARA E SOME",
+   "say": "Separar o casal na fuga divide a polícia e tira uma estrela.",
+   "src": "/root/launch_dl/lt4k.webm",
+   "t": 46.6,
+   "d": 1.3
+  },
+  {
+   "num": 2,
+   "tag": "APP DE LADRÃO",
+   "say": "O app Waink escaneia o carro antes do roubo: trava, alarme e quanto ele vale.",
+   "src": "/root/launch_dl/lt4k.webm",
+   "t": 6.6,
+   "d": 2.6,
+   "fx": 0.5
+  },
+  {
+   "num": 1,
+   "tag": "CORRIDA DE RUA",
+   "say": "E tem corrida de rua, com cronômetro na tela, direto do trailer.",
+   "src": "/root/feat_dl/ft.webm",
+   "t": 27.0,
+   "d": 1.3
+  }
+ ],
+ "outro": {
+  "title": "SEGUE AÍ",
+  "sub": "Dia 19 tem tudo do lançamento",
+  "say": "Segue aí, que no dia dezenove tem tudo do lançamento!",
+  "src": "/root/launch_dl/lt4k.webm",
+  "t": 66.6,
+  "d": 1.3
+ }
+}

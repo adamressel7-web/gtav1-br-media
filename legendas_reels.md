@@ -540,7 +540,7 @@ Comenta de onde você vai jogar no dia 19 👇
 🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## F3 — Faltam 3
-FALTAM 3 DIAS pra GTA 6 🔥📍
+FALTAM 3 DIAS PRA GTA 6 🔥📍
 
 De dia ou de noite, Miami já parece um mapa de GTA 🌴
 
@@ -550,7 +550,7 @@ Comenta de onde você vai jogar no dia 19 👇
 🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## F2 — Faltam 2
-FALTAM 2 DIAS pra GTA 6 🔥📍
+FALTAM 2 DIAS PRA GTA 6 🔥📍
 
 Daqui a 2 dias, a gente troca Miami por Vice City 🎮
 
@@ -560,7 +560,7 @@ Comenta de onde você vai jogar no dia 19 👇
 🎥 Vídeo: The Nomad With The Drone, "Miami DJI Mini 4 Pro Cinematic 4K" (CC BY 3.0, via Wikimedia Commons), editado por @gtav1.br
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Miami #GTA6Brasil #PS5 #XboxSeriesX
 ## F1 — Faltam 1
-FALTA 1 DIA pra GTA 6 🔥📍
+FALTA 1 DIA PRA GTA 6 🔥📍
 
 AMANHÃ é dia de Vice City! Já fez o pré-download? 🔥
 
@@ -598,7 +598,7 @@ Quem vai ser seu parceiro de crime? Comenta aí 👇
 #GTA6 #GTAVI #GrandTheftAuto6 #ViceCity #Leonida #GTA6Brasil #PS5 #XboxSeriesX
 
 ## L16 — Chegou
-CHEGOU O DIA! GTA 6 está disponível 🔥🎮
+CHEGOU O DIA! GTA 6 ESTÁ DISPONÍVEL 🔥🎮
 
 Tudo que dá pra fazer em Leonida, num vídeo só. Qual você vai fazer primeiro?
 
@@ -668,7 +668,7 @@ Fontes: Sensor Tower (via Canaltech), Newzoo | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #ViceCity #Leonida
 
 ## ULT — Última volta em GTA V
-A ÚLTIMA VOLTA em GTA V 🚗🌅
+A ÚLTIMA VOLTA EM GTA V 🚗🌅
 
 Os fãs lá fora estão organizando uma despedida de GTA V na véspera de GTA 6:
 📅 Dia 18/11 à noite, no GTA Online
@@ -683,7 +683,7 @@ Fonte: mxdwn Games | Imagens oficiais: Rockstar Games
 #GTA6 #GTAV #GTAOnline #GTA6Brasil #LosSantos #ViceCity #PS5 #XboxSeriesX
 
 ## EMP — Empresas fechando
-Tem empresa FECHANDO pro lançamento de GTA 6 😂🎮
+TEM EMPRESA FECHANDO PRO LANÇAMENTO DE GTA 6 😂🎮
 
 🍔 Um restaurante avisou que no dia 19 vai estar fechado "resolvendo assuntos importantes em Vice City"
 🔧 Uma empresa de peças de carro também vai fechar no lançamento
@@ -696,7 +696,7 @@ Fontes: OpenCritic, Fortune | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #ViceCity #Leonida #PS5 #XboxSeriesX
 
 ## LUC — Lucia infiltrada (teoria)
-TEORIA: a Lucia é policial infiltrada? 🕵️‍♀️👀
+TEORIA: A LUCIA É POLICIAL INFILTRADA? 🕵️‍♀️👀
 
 A teoria que está rodando lá fora:
 🔓 O site oficial diz que a Lucia saiu da prisão por "pura sorte"
@@ -767,7 +767,7 @@ Fontes: DE-CIX via cash.ch, Critical Hits | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GrandTheftAuto6 #GTA6Brasil #PS5 #XboxSeriesX #Internet #ViceCity
 
 ## APP — Apps do celular
-Os APPS do celular de GTA 6 📱🔥
+OS APPS DO CELULAR DE GTA 6 📱🔥
 
 Os que já apareceram nas prévias da imprensa:
 🚗 WAINK: escaneia o carro antes do roubo (alarme, rastreador e quanto vale)
@@ -801,7 +801,7 @@ Marca quem precisa assinar 👇
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Meme #Casal #Gamer #PS5
 
 ## SEIS — 6 estrelas (boato)
-BOATO: com 6 estrelas, a polícia te caça no mapa inteiro? 🚨🚔
+BOATO: COM 6 ESTRELAS, A POLÍCIA TE CAÇA NO MAPA INTEIRO? 🚨🚔
 
 O que é oficial: os trailers mostram muita perseguição policial em Leonida.
 O que NÃO é oficial: como vai funcionar o nível de procurado. A Rockstar ainda não detalhou.
@@ -815,7 +815,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Boato #Policia #PS5
 
 ## PRECO — Quanto custa GTA 6 no Brasil
-Quanto custa GTA 6 no Brasil? 💸
+QUANTO CUSTA GTA 6 NO BRASIL? 💸
 
 💿 Edição Padrão: R$ 449,90
 ⭐ Edição Ultimate: R$ 549,90
@@ -849,7 +849,7 @@ Fonte: prévias da imprensa (resumo do GTABase) | Imagens oficiais: Rockstar Gam
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida #Gameplay #PS5
 
 ## INED — 7 coisas que quase ninguém percebeu
-7 coisas que a Rockstar já mostrou de GTA 6 e quase ninguém percebeu 👀🔥
+7 COISAS QUE A ROCKSTAR JÁ MOSTROU DE GTA 6 E QUASE NINGUÉM PERCEBEU 👀🔥
 
 7️⃣ Seu corpo muda: come demais, engorda; vai pra academia, ganha músculo
 6️⃣ A Lucia aparece de tornozeleira eletrônica no 1º trailer: liberdade condicional
@@ -865,7 +865,7 @@ Fontes: trailers oficiais, Rockstar e prévias da imprensa | Imagens oficiais: R
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Detalhes #Gameplay #PS5
 
 ## TIPO — Qual jogador você vai ser
-No dia 19, qual jogador você vai ser? 🎮
+NO DIA 19, QUAL JOGADOR VOCÊ VAI SER? 🎮
 
 1️⃣ O da história
 2️⃣ O mete o louco
@@ -880,7 +880,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Gamer #PS5 #XboxSeriesX
 
 ## ERROS — 5 erros pra não cometer no dia 19
-5 erros que você NÃO pode cometer no dia 19 ⚠️
+5 ERROS QUE VOCÊ NÃO PODE COMETER NO DIA 19 ⚠️
 
 1️⃣ Deixar pra baixar na hora: são 212 GB recomendados no PS5, e a atualização 1.002 é obrigatória
 2️⃣ Andar com muito dinheiro no bolso: segundo as prévias, morreu ou foi preso, perdeu
@@ -895,7 +895,7 @@ Fontes: Rockstar Games e prévias da imprensa (resumo do GTABase) | Imagens ofic
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Dicas #Gameplay #PS5
 
 ## ESPERA — 13 anos de espera
-13 anos de espera. Todos nós envelhecemos. 🥲
+13 ANOS DE ESPERA. TODOS NÓS ENVELHECEMOS. 🥲
 
 📀 Setembro de 2013: GTA V chega ao PS3 e ao Xbox 360
 🎮 Ele atravessou três gerações de console: PS3, PS4 e PS5
@@ -908,7 +908,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTAV #GTA6Brasil #Nostalgia #ViceCity #LosSantos #PS5
 
 ## PERIGO — Lugares perigosos de Leonida (teoria)
-TEORIA: os lugares mais perigosos de Leonida 🐊🌲
+TEORIA: OS LUGARES MAIS PERIGOSOS DE LEONIDA 🐊🌲
 
 🐊 Grassrivers: um pântano enorme, e fã aposta em jacaré escondido na água
 🌙 Caiu na água à noite? Boa sorte
@@ -924,7 +924,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #Leonida #Grassrivers #MountKalaga #Teoria #PS5
 
 ## ROUBO — Como roubar carro em GTA 6
-Como roubar carro em GTA 6 🚗🔓
+COMO ROUBAR CARRO EM GTA 6 🚗🔓
 
 📱 Waink: o app escaneia o carro e mostra trava, alarme, rastreador e quanto ele vale no desmanche
 🪟 Carro antigo: quebra o vidro ou abre com Slim Jim
@@ -938,7 +938,7 @@ Fontes: Rockstar North em entrevista à IGN e prévias da imprensa | Imagens ofi
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Carros #Gameplay #PS5
 
 ## GARAGEM — Só 3 vagas na garagem (boato)
-BOATO: em GTA 6, sua garagem começaria com só 3 vagas 🚗🚙🏎️
+BOATO: EM GTA 6, SUA GARAGEM COMEÇARIA COM SÓ 3 VAGAS 🚗🚙🏎️
 
 Vai ter que escolher muito bem:
 🛞 Um clássico de rodão?
@@ -953,7 +953,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Carros #Garagem #Boato #PS5
 
 ## AMB — Ambrosia
-Antes de jogar GTA 6, guarda esse nome: AMBROSIA 🏭🏍️
+ANTES DE JOGAR GTA 6, GUARDA ESSE NOME: AMBROSIA 🏭🏍️
 
 📍 Fica no coração de Leonida, longe das praias de Vice City
 🏭 Quem dá emprego por lá é a refinaria de açúcar Allied Crystal
@@ -968,7 +968,7 @@ Fonte: site oficial de GTA VI | Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #Ambrosia #Leonida #Teoria #PS5
 
 ## VS — GTA V vs GTA 6
-GTA V vs GTA 6: quanto os gráficos evoluíram? 🔥
+GTA V VS GTA 6: QUANTO OS GRÁFICOS EVOLUÍRAM? 🔥
 
 🏎️ Os esportivos: de 2013 pra 2026
 🚙 Os carros de rua: reflexo, pintura e detalhe em outro nível
@@ -980,7 +980,7 @@ Imagens oficiais: Rockstar Games
 #GTA6 #GTAVI #GTAV #GTA6Brasil #ViceCity #Graficos #PS5
 
 ## CONSOLE — Onde GTA 6 roda melhor
-PS5, PS5 Pro ou Xbox: onde GTA 6 roda melhor? 🎮
+PS5, PS5 PRO OU XBOX: ONDE GTA 6 RODA MELHOR? 🎮
 
 🎯 A Rockstar confirmou: 30 FPS em todos os consoles
 🔵 PS5: vibração do controle pelo jogo todo, som 3D e carregamento mais rápido
@@ -1024,7 +1024,7 @@ Qual cena você mais curtiu? Comenta aí 👇
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Teaser #PreLoad #PS5
 
 ## FEAT — Trailer novo com gameplay
-Saiu um trailer novo de GTA 6 CHEIO de gameplay 🔥🎮
+SAIU UM TRAILER NOVO DE GTA 6 CHEIO DE GAMEPLAY 🔥🎮
 
 🔫 Tiroteio no meio da rua
 🏋️‍♀️ Lucia puxando ferro na academia
@@ -1040,7 +1040,7 @@ Qual você vai fazer primeiro? Comenta aí 👇
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #Trailer #PS5
 
 ## DIA1 — 7 coisas pra fazer no dia 1
-7 coisas pra fazer no PRIMEIRO DIA de GTA 6 🌴🎮
+7 COISAS PRA FAZER NO PRIMEIRO DIA DE GTA 6 🌴🎮
 
 1️⃣ Ver o pôr do sol de Vice City
 2️⃣ Pegar uma praia
@@ -1065,7 +1065,7 @@ Faltam 4 dias. Quem mais tá contando?
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Leonida
 
 ## LOJA — Como é um assalto em GTA 6
-Assalto na loja em GTA 6 🏪🔫 (direto do gameplay oficial)
+ASSALTO NA LOJA EM GTA 6 🏪🔫 (DIRETO DO GAMEPLAY OFICIAL)
 
 🧣 A Lucia cobre o rosto antes de entrar
 🔫 Arma na mão e o caixa rendido
@@ -1079,7 +1079,7 @@ Você encarava esse assalto? Comenta aí 👇
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Gameplay #Assalto #PS5
 
 ## DET — Detalhes escondidos no trailer de lançamento
-Detalhes que passaram batido no trailer de lançamento de GTA 6 🔍👀
+DETALHES QUE PASSARAM BATIDO NO TRAILER DE LANÇAMENTO DE GTA 6 🔍👀
 
 🌴 A placa de boas-vindas às Keys
 ⚓ A Brian's Marina, com até telefone na placa
@@ -1094,7 +1094,7 @@ Qual detalhe você não tinha visto? Comenta aí 👇
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #Trailer #Detalhes #PS5
 
 ## PESSOA — 1ª ou 3ª pessoa?
-Você vai jogar GTA 6 em 1ª ou 3ª pessoa? 🎮👀
+VOCÊ VAI JOGAR GTA 6 EM 1ª OU 3ª PESSOA? 🎮👀
 
 Segundo a Rockstar, o jogo foi feito pensando na 3ª pessoa. Mas dá pra usar a 1ª pessoa dirigindo e mirando com algumas armas.
 Modo completo em 1ª pessoa? Não no lançamento. (O GTA V também só ganhou depois.)
@@ -1105,7 +1105,7 @@ Fonte: Rob Nelson (Rockstar North) em prévia para criadores | Imagens oficiais:
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #PrimeiraPessoa #PS5
 
 ## CAPAS — Qual a capa mais lendária?
-Qual é a capa MAIS LENDÁRIA da história de GTA? 👀🔥
+QUAL É A CAPA MAIS LENDÁRIA DA HISTÓRIA DE GTA? 👀🔥
 
 1️⃣ GTA III (2001)
 2️⃣ Vice City (2002)
@@ -1118,3 +1118,27 @@ Comenta o número 👇
 
 Capas oficiais: Rockstar Games
 #GTA6 #GTAVI #GTA6Brasil #GTA #ViceCity #SanAndreas #Nostalgia
+
+## SEMANA — Semana do lançamento
+É OFICIALMENTE A SEMANA DO LANÇAMENTO DE GTA 6! 🔥🌴
+
+Depois de anos de espera, trailers e adiamentos, faltam só 3 dias.
+Quinta-feira, 19 de novembro, no PS5 e Xbox Series X|S.
+
+Quem tá pronto? Comenta aí 👇
+
+🎥 Trailer de lançamento oficial: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #SemanaDoLancamento #PS5
+
+## NPC — NPCs em outro nível
+OS NPCS DE GTA 6 ESTÃO EM OUTRO NÍVEL! 🤯
+
+🎬 Mais de 600 mil animações (no GTA V eram 55 mil)
+🧠 Cada NPC tem personalidade própria e pode reagir se for ameaçado
+💭 Eles lembram das coisas, nada de esquecer na hora
+🏢 A Rockstar montou um escritório inteiro só pros NPCs
+
+Você vai reparar nos NPCs? Comenta aí 👇
+
+Fonte: The New York Times (via GamesRadar+) | Imagens oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #ViceCity #NPC #Rockstar #PS5

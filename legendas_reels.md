@@ -1103,3 +1103,18 @@ E você: 1 ou 3? Comenta aí 👇
 
 Fonte: Rob Nelson (Rockstar North) em prévia para criadores | Imagens oficiais: Rockstar Games / PlayStation
 #GTA6 #GTAVI #GTA6Brasil #ViceCity #PrimeiraPessoa #PS5
+
+## CAPAS — Qual a capa mais lendária?
+Qual é a capa MAIS LENDÁRIA da história de GTA? 👀🔥
+
+1️⃣ GTA III (2001)
+2️⃣ Vice City (2002)
+3️⃣ San Andreas (2004)
+4️⃣ GTA IV (2008)
+5️⃣ GTA V (2013)
+6️⃣ GTA VI (2026)
+
+Comenta o número 👇
+
+Capas oficiais: Rockstar Games
+#GTA6 #GTAVI #GTA6Brasil #GTA #ViceCity #SanAndreas #Nostalgia
